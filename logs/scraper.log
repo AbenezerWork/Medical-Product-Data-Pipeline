@@ -1,0 +1,1575 @@
+2025-07-13 12:04:09,193 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 12:04:09,220 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-13 12:04:10,678 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-13 12:04:55,076 - INFO - Phone migrated to 4
+2025-07-13 12:04:55,241 - INFO - Reconnecting to new data center 4
+2025-07-13 12:04:55,419 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-13 12:04:55,420 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-13 12:04:55,420 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 12:04:57,067 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 12:05:15,539 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 12:05:17,024 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:17,936 - INFO - Downloaded image 172431.jpg from tikvahpharma
+2025-07-13 12:05:17,937 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:18,320 - INFO - Downloaded image 172422.jpg from tikvahpharma
+2025-07-13 12:05:18,321 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:18,937 - INFO - Downloaded image 172415.jpg from tikvahpharma
+2025-07-13 12:05:18,937 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:20,787 - INFO - Downloaded image 172367.jpg from tikvahpharma
+2025-07-13 12:05:20,788 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:21,403 - INFO - Downloaded image 172360.jpg from tikvahpharma
+2025-07-13 12:05:21,404 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:22,156 - INFO - Downloaded image 172350.jpg from tikvahpharma
+2025-07-13 12:05:22,157 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:22,771 - INFO - Downloaded image 172345.jpg from tikvahpharma
+2025-07-13 12:05:22,772 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:23,177 - INFO - Downloaded image 172332.jpg from tikvahpharma
+2025-07-13 12:05:23,178 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:23,459 - INFO - Downloaded image 172325.jpg from tikvahpharma
+2025-07-13 12:05:23,460 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:23,790 - INFO - Downloaded image 172313.jpg from tikvahpharma
+2025-07-13 12:05:23,790 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:24,409 - INFO - Downloaded image 172307.jpg from tikvahpharma
+2025-07-13 12:05:24,409 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:25,505 - INFO - Downloaded image 172274.jpg from tikvahpharma
+2025-07-13 12:05:25,506 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:26,055 - INFO - Downloaded image 172273.jpg from tikvahpharma
+2025-07-13 12:05:26,055 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:27,049 - INFO - Downloaded image 172272.jpg from tikvahpharma
+2025-07-13 12:05:27,049 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:28,214 - INFO - Downloaded image 172263.jpg from tikvahpharma
+2025-07-13 12:05:28,219 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:28,706 - INFO - Downloaded image 172252.jpg from tikvahpharma
+2025-07-13 12:05:28,706 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:29,127 - INFO - Downloaded image 172230.jpg from tikvahpharma
+2025-07-13 12:05:29,127 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:29,470 - INFO - Downloaded image 172229.jpg from tikvahpharma
+2025-07-13 12:05:29,470 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:30,147 - INFO - Downloaded image 172209.jpg from tikvahpharma
+2025-07-13 12:05:30,147 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:30,777 - INFO - Downloaded image 172186.jpg from tikvahpharma
+2025-07-13 12:05:30,778 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:31,279 - INFO - Downloaded image 172185.jpg from tikvahpharma
+2025-07-13 12:05:31,280 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:31,906 - INFO - Downloaded image 172178.jpg from tikvahpharma
+2025-07-13 12:05:31,907 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:32,086 - INFO - Downloaded image 172177.jpg from tikvahpharma
+2025-07-13 12:05:32,086 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:32,329 - INFO - Downloaded image 172173.jpg from tikvahpharma
+2025-07-13 12:05:32,330 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:32,720 - INFO - Downloaded image 172172.jpg from tikvahpharma
+2025-07-13 12:05:32,721 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:32,914 - INFO - Downloaded image 172170.jpg from tikvahpharma
+2025-07-13 12:05:32,915 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:33,323 - INFO - Downloaded image 172166.jpg from tikvahpharma
+2025-07-13 12:05:33,353 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:33,662 - INFO - Downloaded image 172141.jpg from tikvahpharma
+2025-07-13 12:05:33,663 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:34,286 - INFO - Downloaded image 172136.jpg from tikvahpharma
+2025-07-13 12:05:34,286 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:35,190 - INFO - Downloaded image 172135.jpg from tikvahpharma
+2025-07-13 12:05:35,191 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:35,388 - INFO - Downloaded image 172129.jpg from tikvahpharma
+2025-07-13 12:05:35,390 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:36,015 - INFO - Downloaded image 172123.jpg from tikvahpharma
+2025-07-13 12:05:36,015 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:36,522 - INFO - Downloaded image 172122.jpg from tikvahpharma
+2025-07-13 12:05:36,522 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:36,718 - INFO - Downloaded image 172114.jpg from tikvahpharma
+2025-07-13 12:05:36,718 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:36,957 - INFO - Downloaded image 172113.jpg from tikvahpharma
+2025-07-13 12:05:36,958 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:37,124 - INFO - Downloaded image 172112.jpg from tikvahpharma
+2025-07-13 12:05:37,125 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:37,362 - INFO - Downloaded image 172111.jpg from tikvahpharma
+2025-07-13 12:05:37,362 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:37,573 - INFO - Downloaded image 172109.jpg from tikvahpharma
+2025-07-13 12:05:37,573 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:37,957 - INFO - Downloaded image 172107.jpg from tikvahpharma
+2025-07-13 12:05:37,958 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:38,168 - INFO - Downloaded image 172103.jpg from tikvahpharma
+2025-07-13 12:05:38,169 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:38,869 - INFO - Downloaded image 172100.jpg from tikvahpharma
+2025-07-13 12:05:38,870 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:39,590 - INFO - Downloaded image 172099.jpg from tikvahpharma
+2025-07-13 12:05:39,591 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:39,821 - INFO - Downloaded image 172098.jpg from tikvahpharma
+2025-07-13 12:05:39,822 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:40,770 - INFO - Downloaded image 172095.jpg from tikvahpharma
+2025-07-13 12:05:40,771 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:40,945 - INFO - Downloaded image 172093.jpg from tikvahpharma
+2025-07-13 12:05:40,946 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:41,768 - INFO - Downloaded image 172092.jpg from tikvahpharma
+2025-07-13 12:05:42,202 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:42,410 - INFO - Downloaded image 172085.jpg from tikvahpharma
+2025-07-13 12:05:42,411 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:42,576 - INFO - Downloaded image 172084.jpg from tikvahpharma
+2025-07-13 12:05:42,576 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:42,808 - INFO - Downloaded image 172078.jpg from tikvahpharma
+2025-07-13 12:05:42,809 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:43,815 - INFO - Downloaded image 172077.jpg from tikvahpharma
+2025-07-13 12:05:43,816 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:44,589 - INFO - Downloaded image 172071.jpg from tikvahpharma
+2025-07-13 12:05:44,589 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:44,831 - INFO - Downloaded image 172067.jpg from tikvahpharma
+2025-07-13 12:05:44,832 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:45,070 - INFO - Downloaded image 172064.jpg from tikvahpharma
+2025-07-13 12:05:45,071 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:45,917 - INFO - Downloaded image 172061.jpg from tikvahpharma
+2025-07-13 12:05:45,918 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:46,285 - INFO - Downloaded image 172059.jpg from tikvahpharma
+2025-07-13 12:05:46,286 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:46,736 - INFO - Downloaded image 172057.jpg from tikvahpharma
+2025-07-13 12:05:46,737 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:47,546 - INFO - Downloaded image 172044.jpg from tikvahpharma
+2025-07-13 12:05:47,547 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:47,758 - INFO - Downloaded image 172038.jpg from tikvahpharma
+2025-07-13 12:05:47,759 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:48,035 - INFO - Downloaded image 172032.jpg from tikvahpharma
+2025-07-13 12:05:48,036 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:48,194 - INFO - Downloaded image 172029.jpg from tikvahpharma
+2025-07-13 12:05:48,195 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:49,145 - INFO - Downloaded image 172028.jpg from tikvahpharma
+2025-07-13 12:05:49,145 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:49,444 - INFO - Downloaded image 172021.jpg from tikvahpharma
+2025-07-13 12:05:49,445 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:50,532 - INFO - Downloaded image 172020.jpg from tikvahpharma
+2025-07-13 12:05:50,533 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:51,303 - INFO - Downloaded image 172014.jpg from tikvahpharma
+2025-07-13 12:05:51,304 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:52,029 - INFO - Downloaded image 172000.jpg from tikvahpharma
+2025-07-13 12:05:52,029 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:52,382 - INFO - Downloaded image 171999.jpg from tikvahpharma
+2025-07-13 12:05:52,382 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:52,604 - INFO - Downloaded image 171991.jpg from tikvahpharma
+2025-07-13 12:05:52,605 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:53,332 - INFO - Downloaded image 171989.jpg from tikvahpharma
+2025-07-13 12:05:53,332 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:53,515 - INFO - Downloaded image 171985.jpg from tikvahpharma
+2025-07-13 12:05:53,515 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:53,703 - INFO - Downloaded image 171984.jpg from tikvahpharma
+2025-07-13 12:05:53,704 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:53,918 - INFO - Downloaded image 171983.jpg from tikvahpharma
+2025-07-13 12:05:53,918 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:54,122 - INFO - Downloaded image 171982.jpg from tikvahpharma
+2025-07-13 12:05:54,122 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:55,192 - INFO - Downloaded image 171980.jpg from tikvahpharma
+2025-07-13 12:05:55,192 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:55,505 - INFO - Downloaded image 171978.jpg from tikvahpharma
+2025-07-13 12:05:55,506 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:56,530 - INFO - Downloaded image 171960.jpg from tikvahpharma
+2025-07-13 12:05:56,531 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:57,357 - INFO - Downloaded image 171950.jpg from tikvahpharma
+2025-07-13 12:05:57,358 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:57,546 - INFO - Downloaded image 171948.jpg from tikvahpharma
+2025-07-13 12:05:57,547 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:58,086 - INFO - Downloaded image 171944.jpg from tikvahpharma
+2025-07-13 12:05:58,144 - INFO - Successfully saved 200 messages from tikvahpharma to data/raw/telegram_messages/2025-07-13/tikvahpharma.json
+2025-07-13 12:05:58,145 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 12:05:58,737 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:05:59,756 - INFO - Downloaded image 18535.jpg from lobelia4cosmetics
+2025-07-13 12:05:59,757 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:00,782 - INFO - Downloaded image 18534.jpg from lobelia4cosmetics
+2025-07-13 12:06:00,782 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:01,355 - INFO - Downloaded image 18533.jpg from lobelia4cosmetics
+2025-07-13 12:06:01,356 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:01,941 - INFO - Downloaded image 18532.jpg from lobelia4cosmetics
+2025-07-13 12:06:01,942 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:02,412 - INFO - Downloaded image 18531.jpg from lobelia4cosmetics
+2025-07-13 12:06:02,412 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:03,181 - INFO - Downloaded image 18530.jpg from lobelia4cosmetics
+2025-07-13 12:06:03,185 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:03,513 - INFO - Downloaded image 18529.jpg from lobelia4cosmetics
+2025-07-13 12:06:03,514 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:03,858 - INFO - Downloaded image 18528.jpg from lobelia4cosmetics
+2025-07-13 12:06:03,858 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:04,171 - INFO - Downloaded image 18527.jpg from lobelia4cosmetics
+2025-07-13 12:06:04,172 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:04,608 - INFO - Downloaded image 18526.jpg from lobelia4cosmetics
+2025-07-13 12:06:04,609 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:04,898 - INFO - Downloaded image 18525.jpg from lobelia4cosmetics
+2025-07-13 12:06:04,899 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:05,116 - INFO - Downloaded image 18524.jpg from lobelia4cosmetics
+2025-07-13 12:06:05,116 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:05,295 - INFO - Downloaded image 18523.jpg from lobelia4cosmetics
+2025-07-13 12:06:05,295 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:05,483 - INFO - Downloaded image 18522.jpg from lobelia4cosmetics
+2025-07-13 12:06:05,483 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:05,697 - INFO - Downloaded image 18521.jpg from lobelia4cosmetics
+2025-07-13 12:06:05,697 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:06,202 - INFO - Downloaded image 18520.jpg from lobelia4cosmetics
+2025-07-13 12:06:06,203 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:06,744 - INFO - Downloaded image 18519.jpg from lobelia4cosmetics
+2025-07-13 12:06:06,745 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:06,960 - INFO - Downloaded image 18518.jpg from lobelia4cosmetics
+2025-07-13 12:06:06,961 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:07,102 - INFO - Downloaded image 18517.jpg from lobelia4cosmetics
+2025-07-13 12:06:07,103 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:07,248 - INFO - Downloaded image 18516.jpg from lobelia4cosmetics
+2025-07-13 12:06:07,249 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:07,542 - INFO - Downloaded image 18515.jpg from lobelia4cosmetics
+2025-07-13 12:06:07,543 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:07,726 - INFO - Downloaded image 18514.jpg from lobelia4cosmetics
+2025-07-13 12:06:07,726 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:07,869 - INFO - Downloaded image 18513.jpg from lobelia4cosmetics
+2025-07-13 12:06:07,869 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:08,142 - INFO - Downloaded image 18512.jpg from lobelia4cosmetics
+2025-07-13 12:06:08,143 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:08,353 - INFO - Downloaded image 18511.jpg from lobelia4cosmetics
+2025-07-13 12:06:08,357 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:08,514 - INFO - Downloaded image 18510.jpg from lobelia4cosmetics
+2025-07-13 12:06:08,515 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:08,662 - INFO - Downloaded image 18509.jpg from lobelia4cosmetics
+2025-07-13 12:06:08,663 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:08,950 - INFO - Downloaded image 18508.jpg from lobelia4cosmetics
+2025-07-13 12:06:08,950 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:09,089 - INFO - Downloaded image 18507.jpg from lobelia4cosmetics
+2025-07-13 12:06:09,090 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:09,257 - INFO - Downloaded image 18506.jpg from lobelia4cosmetics
+2025-07-13 12:06:09,258 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:09,551 - INFO - Downloaded image 18505.jpg from lobelia4cosmetics
+2025-07-13 12:06:09,552 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:09,710 - INFO - Downloaded image 18504.jpg from lobelia4cosmetics
+2025-07-13 12:06:09,711 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:09,878 - INFO - Downloaded image 18503.jpg from lobelia4cosmetics
+2025-07-13 12:06:09,879 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:10,057 - INFO - Downloaded image 18502.jpg from lobelia4cosmetics
+2025-07-13 12:06:10,057 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:10,216 - INFO - Downloaded image 18501.jpg from lobelia4cosmetics
+2025-07-13 12:06:10,217 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:10,357 - INFO - Downloaded image 18500.jpg from lobelia4cosmetics
+2025-07-13 12:06:10,358 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:10,649 - INFO - Downloaded image 18499.jpg from lobelia4cosmetics
+2025-07-13 12:06:10,650 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:10,835 - INFO - Downloaded image 18498.jpg from lobelia4cosmetics
+2025-07-13 12:06:10,836 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:10,977 - INFO - Downloaded image 18497.jpg from lobelia4cosmetics
+2025-07-13 12:06:10,977 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:11,139 - INFO - Downloaded image 18496.jpg from lobelia4cosmetics
+2025-07-13 12:06:11,140 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:11,303 - INFO - Downloaded image 18495.jpg from lobelia4cosmetics
+2025-07-13 12:06:11,304 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:11,453 - INFO - Downloaded image 18494.jpg from lobelia4cosmetics
+2025-07-13 12:06:11,454 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:11,603 - INFO - Downloaded image 18493.jpg from lobelia4cosmetics
+2025-07-13 12:06:11,604 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:11,747 - INFO - Downloaded image 18492.jpg from lobelia4cosmetics
+2025-07-13 12:06:11,747 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:12,196 - INFO - Downloaded image 18491.jpg from lobelia4cosmetics
+2025-07-13 12:06:12,197 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:12,648 - INFO - Downloaded image 18490.jpg from lobelia4cosmetics
+2025-07-13 12:06:12,649 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:12,788 - INFO - Downloaded image 18489.jpg from lobelia4cosmetics
+2025-07-13 12:06:12,789 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:13,090 - INFO - Downloaded image 18488.jpg from lobelia4cosmetics
+2025-07-13 12:06:13,091 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:13,239 - INFO - Downloaded image 18487.jpg from lobelia4cosmetics
+2025-07-13 12:06:13,240 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:13,558 - INFO - Downloaded image 18486.jpg from lobelia4cosmetics
+2025-07-13 12:06:13,561 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:13,925 - INFO - Downloaded image 18485.jpg from lobelia4cosmetics
+2025-07-13 12:06:13,926 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:14,069 - INFO - Downloaded image 18484.jpg from lobelia4cosmetics
+2025-07-13 12:06:14,069 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:14,370 - INFO - Downloaded image 18483.jpg from lobelia4cosmetics
+2025-07-13 12:06:14,370 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:14,523 - INFO - Downloaded image 18482.jpg from lobelia4cosmetics
+2025-07-13 12:06:14,524 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:15,034 - INFO - Downloaded image 18481.jpg from lobelia4cosmetics
+2025-07-13 12:06:15,034 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:15,575 - INFO - Downloaded image 18480.jpg from lobelia4cosmetics
+2025-07-13 12:06:15,576 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:15,723 - INFO - Downloaded image 18479.jpg from lobelia4cosmetics
+2025-07-13 12:06:15,723 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:16,012 - INFO - Downloaded image 18478.jpg from lobelia4cosmetics
+2025-07-13 12:06:16,013 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:16,182 - INFO - Downloaded image 18477.jpg from lobelia4cosmetics
+2025-07-13 12:06:16,183 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:16,627 - INFO - Downloaded image 18476.jpg from lobelia4cosmetics
+2025-07-13 12:06:16,628 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:16,790 - INFO - Downloaded image 18475.jpg from lobelia4cosmetics
+2025-07-13 12:06:16,791 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:16,958 - INFO - Downloaded image 18474.jpg from lobelia4cosmetics
+2025-07-13 12:06:16,958 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:17,108 - INFO - Downloaded image 18473.jpg from lobelia4cosmetics
+2025-07-13 12:06:17,109 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:17,277 - INFO - Downloaded image 18472.jpg from lobelia4cosmetics
+2025-07-13 12:06:17,278 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:17,438 - INFO - Downloaded image 18471.jpg from lobelia4cosmetics
+2025-07-13 12:06:17,438 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:17,592 - INFO - Downloaded image 18470.jpg from lobelia4cosmetics
+2025-07-13 12:06:17,593 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:17,749 - INFO - Downloaded image 18469.jpg from lobelia4cosmetics
+2025-07-13 12:06:17,750 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:17,919 - INFO - Downloaded image 18468.jpg from lobelia4cosmetics
+2025-07-13 12:06:17,919 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:18,084 - INFO - Downloaded image 18467.jpg from lobelia4cosmetics
+2025-07-13 12:06:18,085 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:18,272 - INFO - Downloaded image 18466.jpg from lobelia4cosmetics
+2025-07-13 12:06:18,273 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:18,416 - INFO - Downloaded image 18465.jpg from lobelia4cosmetics
+2025-07-13 12:06:18,417 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:18,570 - INFO - Downloaded image 18464.jpg from lobelia4cosmetics
+2025-07-13 12:06:18,570 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:18,743 - INFO - Downloaded image 18463.jpg from lobelia4cosmetics
+2025-07-13 12:06:18,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:18,898 - INFO - Downloaded image 18462.jpg from lobelia4cosmetics
+2025-07-13 12:06:18,898 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:19,050 - INFO - Downloaded image 18461.jpg from lobelia4cosmetics
+2025-07-13 12:06:19,050 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:19,210 - INFO - Downloaded image 18460.jpg from lobelia4cosmetics
+2025-07-13 12:06:19,211 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:19,398 - INFO - Downloaded image 18459.jpg from lobelia4cosmetics
+2025-07-13 12:06:19,399 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:19,566 - INFO - Downloaded image 18458.jpg from lobelia4cosmetics
+2025-07-13 12:06:19,567 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:19,726 - INFO - Downloaded image 18457.jpg from lobelia4cosmetics
+2025-07-13 12:06:19,726 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:19,892 - INFO - Downloaded image 18456.jpg from lobelia4cosmetics
+2025-07-13 12:06:19,892 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:20,056 - INFO - Downloaded image 18455.jpg from lobelia4cosmetics
+2025-07-13 12:06:20,056 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:20,220 - INFO - Downloaded image 18454.jpg from lobelia4cosmetics
+2025-07-13 12:06:20,220 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:20,369 - INFO - Downloaded image 18453.jpg from lobelia4cosmetics
+2025-07-13 12:06:20,370 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:20,511 - INFO - Downloaded image 18452.jpg from lobelia4cosmetics
+2025-07-13 12:06:20,511 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:20,656 - INFO - Downloaded image 18451.jpg from lobelia4cosmetics
+2025-07-13 12:06:20,656 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:20,799 - INFO - Downloaded image 18450.jpg from lobelia4cosmetics
+2025-07-13 12:06:20,800 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:20,964 - INFO - Downloaded image 18449.jpg from lobelia4cosmetics
+2025-07-13 12:06:20,964 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:21,132 - INFO - Downloaded image 18448.jpg from lobelia4cosmetics
+2025-07-13 12:06:21,133 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:21,306 - INFO - Downloaded image 18446.jpg from lobelia4cosmetics
+2025-07-13 12:06:21,307 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:21,485 - INFO - Downloaded image 18445.jpg from lobelia4cosmetics
+2025-07-13 12:06:21,486 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:21,645 - INFO - Downloaded image 18444.jpg from lobelia4cosmetics
+2025-07-13 12:06:21,646 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:21,945 - INFO - Downloaded image 18443.jpg from lobelia4cosmetics
+2025-07-13 12:06:21,946 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:22,096 - INFO - Downloaded image 18442.jpg from lobelia4cosmetics
+2025-07-13 12:06:22,096 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:22,562 - INFO - Downloaded image 18441.jpg from lobelia4cosmetics
+2025-07-13 12:06:22,563 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:22,711 - INFO - Downloaded image 18440.jpg from lobelia4cosmetics
+2025-07-13 12:06:22,712 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:22,853 - INFO - Downloaded image 18439.jpg from lobelia4cosmetics
+2025-07-13 12:06:22,854 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:23,000 - INFO - Downloaded image 18438.jpg from lobelia4cosmetics
+2025-07-13 12:06:23,001 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:23,174 - INFO - Downloaded image 18437.jpg from lobelia4cosmetics
+2025-07-13 12:06:23,175 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:23,320 - INFO - Downloaded image 18436.jpg from lobelia4cosmetics
+2025-07-13 12:06:23,320 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:23,459 - INFO - Downloaded image 18435.jpg from lobelia4cosmetics
+2025-07-13 12:06:23,702 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:24,167 - INFO - Downloaded image 18434.jpg from lobelia4cosmetics
+2025-07-13 12:06:24,168 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:24,313 - INFO - Downloaded image 18433.jpg from lobelia4cosmetics
+2025-07-13 12:06:24,313 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:24,647 - INFO - Downloaded image 18432.jpg from lobelia4cosmetics
+2025-07-13 12:06:24,648 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:24,791 - INFO - Downloaded image 18431.jpg from lobelia4cosmetics
+2025-07-13 12:06:24,821 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:24,967 - INFO - Downloaded image 18430.jpg from lobelia4cosmetics
+2025-07-13 12:06:24,968 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:25,266 - INFO - Downloaded image 18429.jpg from lobelia4cosmetics
+2025-07-13 12:06:25,267 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:25,411 - INFO - Downloaded image 18428.jpg from lobelia4cosmetics
+2025-07-13 12:06:25,412 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:25,867 - INFO - Downloaded image 18427.jpg from lobelia4cosmetics
+2025-07-13 12:06:25,867 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:26,170 - INFO - Downloaded image 18426.jpg from lobelia4cosmetics
+2025-07-13 12:06:26,170 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:26,315 - INFO - Downloaded image 18425.jpg from lobelia4cosmetics
+2025-07-13 12:06:26,315 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:26,486 - INFO - Downloaded image 18424.jpg from lobelia4cosmetics
+2025-07-13 12:06:26,487 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:26,655 - INFO - Downloaded image 18423.jpg from lobelia4cosmetics
+2025-07-13 12:06:26,655 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:26,817 - INFO - Downloaded image 18422.jpg from lobelia4cosmetics
+2025-07-13 12:06:26,818 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:26,957 - INFO - Downloaded image 18421.jpg from lobelia4cosmetics
+2025-07-13 12:06:26,958 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:27,161 - INFO - Downloaded image 18420.jpg from lobelia4cosmetics
+2025-07-13 12:06:27,162 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:27,311 - INFO - Downloaded image 18419.jpg from lobelia4cosmetics
+2025-07-13 12:06:27,312 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:27,459 - INFO - Downloaded image 18418.jpg from lobelia4cosmetics
+2025-07-13 12:06:27,459 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:27,627 - INFO - Downloaded image 18417.jpg from lobelia4cosmetics
+2025-07-13 12:06:27,627 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:27,798 - INFO - Downloaded image 18416.jpg from lobelia4cosmetics
+2025-07-13 12:06:27,799 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:28,273 - INFO - Downloaded image 18415.jpg from lobelia4cosmetics
+2025-07-13 12:06:28,274 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:28,424 - INFO - Downloaded image 18414.jpg from lobelia4cosmetics
+2025-07-13 12:06:28,424 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:28,576 - INFO - Downloaded image 18413.jpg from lobelia4cosmetics
+2025-07-13 12:06:28,577 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:28,722 - INFO - Downloaded image 18412.jpg from lobelia4cosmetics
+2025-07-13 12:06:28,723 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:28,890 - INFO - Downloaded image 18411.jpg from lobelia4cosmetics
+2025-07-13 12:06:28,890 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:29,038 - INFO - Downloaded image 18410.jpg from lobelia4cosmetics
+2025-07-13 12:06:29,039 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:29,188 - INFO - Downloaded image 18409.jpg from lobelia4cosmetics
+2025-07-13 12:06:29,188 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:29,364 - INFO - Downloaded image 18408.jpg from lobelia4cosmetics
+2025-07-13 12:06:29,364 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:29,657 - INFO - Downloaded image 18407.jpg from lobelia4cosmetics
+2025-07-13 12:06:29,658 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:29,823 - INFO - Downloaded image 18406.jpg from lobelia4cosmetics
+2025-07-13 12:06:29,827 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:30,011 - INFO - Downloaded image 18405.jpg from lobelia4cosmetics
+2025-07-13 12:06:30,012 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:30,506 - INFO - Downloaded image 18404.jpg from lobelia4cosmetics
+2025-07-13 12:06:30,506 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:30,945 - INFO - Downloaded image 18403.jpg from lobelia4cosmetics
+2025-07-13 12:06:30,946 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:31,100 - INFO - Downloaded image 18402.jpg from lobelia4cosmetics
+2025-07-13 12:06:31,100 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:31,675 - INFO - Downloaded image 18401.jpg from lobelia4cosmetics
+2025-07-13 12:06:31,675 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:31,852 - INFO - Downloaded image 18400.jpg from lobelia4cosmetics
+2025-07-13 12:06:31,852 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:32,058 - INFO - Downloaded image 18399.jpg from lobelia4cosmetics
+2025-07-13 12:06:32,058 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:32,262 - INFO - Downloaded image 18398.jpg from lobelia4cosmetics
+2025-07-13 12:06:32,263 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:32,466 - INFO - Downloaded image 18397.jpg from lobelia4cosmetics
+2025-07-13 12:06:32,466 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:32,665 - INFO - Downloaded image 18396.jpg from lobelia4cosmetics
+2025-07-13 12:06:32,666 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:32,930 - INFO - Downloaded image 18395.jpg from lobelia4cosmetics
+2025-07-13 12:06:32,931 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:33,190 - INFO - Downloaded image 18394.jpg from lobelia4cosmetics
+2025-07-13 12:06:33,191 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:33,442 - INFO - Downloaded image 18393.jpg from lobelia4cosmetics
+2025-07-13 12:06:33,443 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:33,668 - INFO - Downloaded image 18392.jpg from lobelia4cosmetics
+2025-07-13 12:06:33,668 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:33,869 - INFO - Downloaded image 18391.jpg from lobelia4cosmetics
+2025-07-13 12:06:33,870 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:34,059 - INFO - Downloaded image 18390.jpg from lobelia4cosmetics
+2025-07-13 12:06:34,059 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:34,246 - INFO - Downloaded image 18389.jpg from lobelia4cosmetics
+2025-07-13 12:06:34,247 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:34,409 - INFO - Downloaded image 18388.jpg from lobelia4cosmetics
+2025-07-13 12:06:34,410 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:34,563 - INFO - Downloaded image 18387.jpg from lobelia4cosmetics
+2025-07-13 12:06:34,564 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:34,745 - INFO - Downloaded image 18386.jpg from lobelia4cosmetics
+2025-07-13 12:06:34,746 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:34,919 - INFO - Downloaded image 18385.jpg from lobelia4cosmetics
+2025-07-13 12:06:34,920 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:35,069 - INFO - Downloaded image 18384.jpg from lobelia4cosmetics
+2025-07-13 12:06:35,070 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:35,287 - INFO - Downloaded image 18383.jpg from lobelia4cosmetics
+2025-07-13 12:06:35,287 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:35,442 - INFO - Downloaded image 18382.jpg from lobelia4cosmetics
+2025-07-13 12:06:35,443 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:35,759 - INFO - Downloaded image 18381.jpg from lobelia4cosmetics
+2025-07-13 12:06:35,760 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:35,912 - INFO - Downloaded image 18379.jpg from lobelia4cosmetics
+2025-07-13 12:06:35,912 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:36,142 - INFO - Downloaded image 18378.jpg from lobelia4cosmetics
+2025-07-13 12:06:36,142 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:36,359 - INFO - Downloaded image 18377.jpg from lobelia4cosmetics
+2025-07-13 12:06:36,360 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:36,598 - INFO - Downloaded image 18376.jpg from lobelia4cosmetics
+2025-07-13 12:06:36,598 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:36,867 - INFO - Downloaded image 18375.jpg from lobelia4cosmetics
+2025-07-13 12:06:36,868 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:37,049 - INFO - Downloaded image 18374.jpg from lobelia4cosmetics
+2025-07-13 12:06:37,050 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:37,225 - INFO - Downloaded image 18373.jpg from lobelia4cosmetics
+2025-07-13 12:06:37,226 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:38,643 - INFO - Downloaded image 18372.jpg from lobelia4cosmetics
+2025-07-13 12:06:38,644 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:38,872 - INFO - Downloaded image 18371.jpg from lobelia4cosmetics
+2025-07-13 12:06:38,873 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:39,149 - INFO - Downloaded image 18370.jpg from lobelia4cosmetics
+2025-07-13 12:06:39,150 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:39,849 - INFO - Downloaded image 18369.jpg from lobelia4cosmetics
+2025-07-13 12:06:39,849 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:40,124 - INFO - Downloaded image 18368.jpg from lobelia4cosmetics
+2025-07-13 12:06:40,125 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:40,362 - INFO - Downloaded image 18367.jpg from lobelia4cosmetics
+2025-07-13 12:06:40,362 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:40,557 - INFO - Downloaded image 18366.jpg from lobelia4cosmetics
+2025-07-13 12:06:40,558 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:41,225 - INFO - Downloaded image 18365.jpg from lobelia4cosmetics
+2025-07-13 12:06:41,226 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:41,695 - INFO - Downloaded image 18364.jpg from lobelia4cosmetics
+2025-07-13 12:06:41,695 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:41,885 - INFO - Downloaded image 18363.jpg from lobelia4cosmetics
+2025-07-13 12:06:41,886 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:42,027 - INFO - Downloaded image 18362.jpg from lobelia4cosmetics
+2025-07-13 12:06:42,027 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:42,197 - INFO - Downloaded image 18361.jpg from lobelia4cosmetics
+2025-07-13 12:06:42,198 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:42,379 - INFO - Downloaded image 18360.jpg from lobelia4cosmetics
+2025-07-13 12:06:42,380 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:42,582 - INFO - Downloaded image 18359.jpg from lobelia4cosmetics
+2025-07-13 12:06:42,583 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:42,739 - INFO - Downloaded image 18358.jpg from lobelia4cosmetics
+2025-07-13 12:06:42,739 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:43,185 - INFO - Downloaded image 18357.jpg from lobelia4cosmetics
+2025-07-13 12:06:43,186 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:43,342 - INFO - Downloaded image 18356.jpg from lobelia4cosmetics
+2025-07-13 12:06:43,343 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:43,665 - INFO - Downloaded image 18355.jpg from lobelia4cosmetics
+2025-07-13 12:06:43,666 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:43,890 - INFO - Downloaded image 18354.jpg from lobelia4cosmetics
+2025-07-13 12:06:43,891 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:44,136 - INFO - Downloaded image 18353.jpg from lobelia4cosmetics
+2025-07-13 12:06:44,137 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:44,387 - INFO - Downloaded image 18352.jpg from lobelia4cosmetics
+2025-07-13 12:06:44,389 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:44,621 - INFO - Downloaded image 18351.jpg from lobelia4cosmetics
+2025-07-13 12:06:44,621 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:44,776 - INFO - Downloaded image 18350.jpg from lobelia4cosmetics
+2025-07-13 12:06:44,776 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:45,095 - INFO - Downloaded image 18349.jpg from lobelia4cosmetics
+2025-07-13 12:06:45,096 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:45,646 - INFO - Downloaded image 18348.jpg from lobelia4cosmetics
+2025-07-13 12:06:45,647 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:46,267 - INFO - Downloaded image 18347.jpg from lobelia4cosmetics
+2025-07-13 12:06:46,267 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:46,993 - INFO - Downloaded image 18346.jpg from lobelia4cosmetics
+2025-07-13 12:06:46,994 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:47,170 - INFO - Downloaded image 18345.jpg from lobelia4cosmetics
+2025-07-13 12:06:47,171 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:48,137 - INFO - Downloaded image 18344.jpg from lobelia4cosmetics
+2025-07-13 12:06:48,138 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:48,816 - INFO - Downloaded image 18343.jpg from lobelia4cosmetics
+2025-07-13 12:06:48,817 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:48,962 - INFO - Downloaded image 18342.jpg from lobelia4cosmetics
+2025-07-13 12:06:48,963 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:49,275 - INFO - Downloaded image 18341.jpg from lobelia4cosmetics
+2025-07-13 12:06:49,276 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:50,389 - INFO - Downloaded image 18340.jpg from lobelia4cosmetics
+2025-07-13 12:06:50,390 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:51,485 - INFO - Downloaded image 18339.jpg from lobelia4cosmetics
+2025-07-13 12:06:51,486 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:51,770 - INFO - Downloaded image 18338.jpg from lobelia4cosmetics
+2025-07-13 12:06:51,770 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:52,052 - INFO - Downloaded image 18337.jpg from lobelia4cosmetics
+2025-07-13 12:06:52,052 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:53,055 - INFO - Downloaded image 18336.jpg from lobelia4cosmetics
+2025-07-13 12:06:53,056 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:53,393 - INFO - Downloaded image 18335.jpg from lobelia4cosmetics
+2025-07-13 12:06:53,394 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:54,405 - INFO - Downloaded image 18334.jpg from lobelia4cosmetics
+2025-07-13 12:06:54,441 - INFO - Successfully saved 200 messages from lobelia4cosmetics to data/raw/telegram_messages/2025-07-13/lobelia4cosmetics.json
+2025-07-13 12:06:54,442 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 12:06:54,993 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:55,574 - INFO - Downloaded image 97.jpg from CheMed123
+2025-07-13 12:06:55,578 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:56,409 - INFO - Downloaded image 96.jpg from CheMed123
+2025-07-13 12:06:56,410 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:56,978 - INFO - Downloaded image 95.jpg from CheMed123
+2025-07-13 12:06:56,979 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:57,544 - INFO - Downloaded image 94.jpg from CheMed123
+2025-07-13 12:06:57,545 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:58,319 - INFO - Downloaded image 93.jpg from CheMed123
+2025-07-13 12:06:58,320 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:59,026 - INFO - Downloaded image 92.jpg from CheMed123
+2025-07-13 12:06:59,027 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:06:59,512 - INFO - Downloaded image 91.jpg from CheMed123
+2025-07-13 12:06:59,513 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:00,742 - INFO - Downloaded image 90.jpg from CheMed123
+2025-07-13 12:07:00,742 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:01,499 - INFO - Downloaded image 88.jpg from CheMed123
+2025-07-13 12:07:01,499 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:02,254 - INFO - Downloaded image 87.jpg from CheMed123
+2025-07-13 12:07:02,255 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:03,029 - INFO - Downloaded image 86.jpg from CheMed123
+2025-07-13 12:07:03,033 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:03,488 - INFO - Downloaded image 85.jpg from CheMed123
+2025-07-13 12:07:03,488 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:04,014 - INFO - Downloaded image 82.jpg from CheMed123
+2025-07-13 12:07:04,014 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:04,749 - INFO - Downloaded image 81.jpg from CheMed123
+2025-07-13 12:07:04,750 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:05,214 - INFO - Downloaded image 80.jpg from CheMed123
+2025-07-13 12:07:05,214 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:05,971 - INFO - Downloaded image 79.jpg from CheMed123
+2025-07-13 12:07:05,972 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:06,789 - INFO - Downloaded image 78.jpg from CheMed123
+2025-07-13 12:07:06,790 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:07,683 - INFO - Downloaded image 77.jpg from CheMed123
+2025-07-13 12:07:07,684 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:08,660 - INFO - Downloaded image 76.jpg from CheMed123
+2025-07-13 12:07:08,661 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:09,625 - INFO - Downloaded image 75.jpg from CheMed123
+2025-07-13 12:07:09,626 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:10,087 - INFO - Downloaded image 74.jpg from CheMed123
+2025-07-13 12:07:10,087 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:10,722 - INFO - Downloaded image 71.jpg from CheMed123
+2025-07-13 12:07:10,722 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:11,382 - INFO - Downloaded image 70.jpg from CheMed123
+2025-07-13 12:07:11,383 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:12,055 - INFO - Downloaded image 67.jpg from CheMed123
+2025-07-13 12:07:12,056 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:12,698 - INFO - Downloaded image 64.jpg from CheMed123
+2025-07-13 12:07:12,699 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:13,162 - INFO - Downloaded image 60.jpg from CheMed123
+2025-07-13 12:07:13,163 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:13,862 - INFO - Downloaded image 59.jpg from CheMed123
+2025-07-13 12:07:13,862 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:14,172 - INFO - Downloaded image 58.jpg from CheMed123
+2025-07-13 12:07:14,172 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:14,610 - INFO - Downloaded image 57.jpg from CheMed123
+2025-07-13 12:07:14,611 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:15,321 - INFO - Downloaded image 56.jpg from CheMed123
+2025-07-13 12:07:15,321 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:16,091 - INFO - Downloaded image 55.jpg from CheMed123
+2025-07-13 12:07:16,092 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:16,853 - INFO - Downloaded image 53.jpg from CheMed123
+2025-07-13 12:07:16,854 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:17,300 - INFO - Downloaded image 52.jpg from CheMed123
+2025-07-13 12:07:17,301 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:17,771 - INFO - Downloaded image 50.jpg from CheMed123
+2025-07-13 12:07:17,772 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:18,209 - INFO - Downloaded image 49.jpg from CheMed123
+2025-07-13 12:07:18,210 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:19,325 - INFO - Downloaded image 48.jpg from CheMed123
+2025-07-13 12:07:19,326 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:19,801 - INFO - Downloaded image 46.jpg from CheMed123
+2025-07-13 12:07:19,802 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:20,291 - INFO - Downloaded image 45.jpg from CheMed123
+2025-07-13 12:07:20,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:20,718 - INFO - Downloaded image 44.jpg from CheMed123
+2025-07-13 12:07:20,718 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:21,169 - INFO - Downloaded image 43.jpg from CheMed123
+2025-07-13 12:07:21,170 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:21,769 - INFO - Downloaded image 41.jpg from CheMed123
+2025-07-13 12:07:21,770 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:22,074 - INFO - Downloaded image 40.jpg from CheMed123
+2025-07-13 12:07:22,074 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:22,386 - INFO - Downloaded image 39.jpg from CheMed123
+2025-07-13 12:07:22,386 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:22,727 - INFO - Downloaded image 38.jpg from CheMed123
+2025-07-13 12:07:22,728 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:23,098 - INFO - Downloaded image 34.jpg from CheMed123
+2025-07-13 12:07:23,098 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:23,766 - INFO - Downloaded image 33.jpg from CheMed123
+2025-07-13 12:07:23,767 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:24,290 - INFO - Downloaded image 32.jpg from CheMed123
+2025-07-13 12:07:24,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:24,768 - INFO - Downloaded image 31.jpg from CheMed123
+2025-07-13 12:07:24,768 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:25,100 - INFO - Downloaded image 30.jpg from CheMed123
+2025-07-13 12:07:25,103 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:26,297 - INFO - Downloaded image 29.jpg from CheMed123
+2025-07-13 12:07:26,298 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:26,660 - INFO - Downloaded image 27.jpg from CheMed123
+2025-07-13 12:07:26,661 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:28,256 - INFO - Downloaded image 26.jpg from CheMed123
+2025-07-13 12:07:28,257 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:28,953 - INFO - Downloaded image 25.jpg from CheMed123
+2025-07-13 12:07:28,954 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:29,799 - INFO - Downloaded image 23.jpg from CheMed123
+2025-07-13 12:07:29,800 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:30,432 - INFO - Downloaded image 22.jpg from CheMed123
+2025-07-13 12:07:30,433 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:31,250 - INFO - Downloaded image 21.jpg from CheMed123
+2025-07-13 12:07:31,251 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:32,660 - INFO - Downloaded image 20.jpg from CheMed123
+2025-07-13 12:07:32,661 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:33,877 - INFO - Downloaded image 19.jpg from CheMed123
+2025-07-13 12:07:33,878 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:34,468 - INFO - Downloaded image 18.jpg from CheMed123
+2025-07-13 12:07:34,468 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:35,211 - INFO - Downloaded image 17.jpg from CheMed123
+2025-07-13 12:07:35,211 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:35,806 - INFO - Downloaded image 15.jpg from CheMed123
+2025-07-13 12:07:35,807 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:36,847 - INFO - Downloaded image 14.jpg from CheMed123
+2025-07-13 12:07:36,847 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:38,603 - INFO - Downloaded image 13.jpg from CheMed123
+2025-07-13 12:07:38,604 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:39,460 - INFO - Downloaded image 11.jpg from CheMed123
+2025-07-13 12:07:39,461 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:40,310 - INFO - Downloaded image 10.jpg from CheMed123
+2025-07-13 12:07:40,311 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:40,605 - INFO - Downloaded image 9.jpg from CheMed123
+2025-07-13 12:07:40,606 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:40,748 - INFO - Downloaded image 4.jpg from CheMed123
+2025-07-13 12:07:40,749 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:41,026 - INFO - Downloaded image 3.jpg from CheMed123
+2025-07-13 12:07:41,026 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 12:07:41,325 - INFO - Downloaded image 2.jpg from CheMed123
+2025-07-13 12:07:41,337 - INFO - Successfully saved 76 messages from CheMed123 to data/raw/telegram_messages/2025-07-13/CheMed123.json
+2025-07-13 12:07:41,337 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 12:07:41,338 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 12:07:41,347 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 13:17:23,509 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 13:17:23,510 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 13:17:23,649 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:17:24,660 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 13:17:25,538 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:25,701 - INFO - Downloaded image 172442.jpg from tikvahpharma
+2025-07-13 13:17:25,702 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:25,906 - INFO - Downloaded image 172431.jpg from tikvahpharma
+2025-07-13 13:17:25,907 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:26,105 - INFO - Downloaded image 172422.jpg from tikvahpharma
+2025-07-13 13:17:26,106 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:26,331 - INFO - Downloaded image 172415.jpg from tikvahpharma
+2025-07-13 13:17:26,332 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:26,848 - INFO - Downloaded image 172367.jpg from tikvahpharma
+2025-07-13 13:17:26,849 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:27,067 - INFO - Downloaded image 172360.jpg from tikvahpharma
+2025-07-13 13:17:27,068 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:27,323 - INFO - Downloaded image 172350.jpg from tikvahpharma
+2025-07-13 13:17:27,324 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:27,587 - INFO - Downloaded image 172345.jpg from tikvahpharma
+2025-07-13 13:17:27,588 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:27,760 - INFO - Downloaded image 172332.jpg from tikvahpharma
+2025-07-13 13:17:27,761 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:27,905 - INFO - Downloaded image 172325.jpg from tikvahpharma
+2025-07-13 13:17:27,906 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:28,080 - INFO - Downloaded image 172313.jpg from tikvahpharma
+2025-07-13 13:17:28,082 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:28,276 - INFO - Downloaded image 172307.jpg from tikvahpharma
+2025-07-13 13:17:28,277 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:28,875 - INFO - Downloaded image 172274.jpg from tikvahpharma
+2025-07-13 13:17:28,876 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:29,052 - INFO - Downloaded image 172273.jpg from tikvahpharma
+2025-07-13 13:17:29,053 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:29,440 - INFO - Downloaded image 172272.jpg from tikvahpharma
+2025-07-13 13:17:29,441 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:29,840 - INFO - Downloaded image 172263.jpg from tikvahpharma
+2025-07-13 13:17:29,841 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:30,088 - INFO - Downloaded image 172252.jpg from tikvahpharma
+2025-07-13 13:17:30,088 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:30,260 - INFO - Downloaded image 172230.jpg from tikvahpharma
+2025-07-13 13:17:30,260 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:30,521 - INFO - Downloaded image 172229.jpg from tikvahpharma
+2025-07-13 13:17:30,521 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:30,784 - INFO - Downloaded image 172209.jpg from tikvahpharma
+2025-07-13 13:17:30,785 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:31,115 - INFO - Downloaded image 172186.jpg from tikvahpharma
+2025-07-13 13:17:31,115 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:31,327 - INFO - Downloaded image 172185.jpg from tikvahpharma
+2025-07-13 13:17:31,327 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:31,699 - INFO - Downloaded image 172178.jpg from tikvahpharma
+2025-07-13 13:17:31,699 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:31,915 - INFO - Downloaded image 172177.jpg from tikvahpharma
+2025-07-13 13:17:31,915 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:32,102 - INFO - Downloaded image 172173.jpg from tikvahpharma
+2025-07-13 13:17:32,103 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:32,342 - INFO - Downloaded image 172172.jpg from tikvahpharma
+2025-07-13 13:17:32,342 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:32,537 - INFO - Downloaded image 172170.jpg from tikvahpharma
+2025-07-13 13:17:32,538 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:32,720 - INFO - Downloaded image 172166.jpg from tikvahpharma
+2025-07-13 13:17:32,721 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:32,926 - INFO - Downloaded image 172141.jpg from tikvahpharma
+2025-07-13 13:17:32,926 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:33,329 - INFO - Downloaded image 172136.jpg from tikvahpharma
+2025-07-13 13:17:33,330 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:33,738 - INFO - Downloaded image 172135.jpg from tikvahpharma
+2025-07-13 13:17:33,738 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:33,924 - INFO - Downloaded image 172129.jpg from tikvahpharma
+2025-07-13 13:17:33,925 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:34,292 - INFO - Downloaded image 172123.jpg from tikvahpharma
+2025-07-13 13:17:34,293 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:34,526 - INFO - Downloaded image 172122.jpg from tikvahpharma
+2025-07-13 13:17:34,533 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:34,834 - INFO - Downloaded image 172114.jpg from tikvahpharma
+2025-07-13 13:17:34,834 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:34,984 - INFO - Downloaded image 172113.jpg from tikvahpharma
+2025-07-13 13:17:34,985 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:35,218 - INFO - Downloaded image 172112.jpg from tikvahpharma
+2025-07-13 13:17:35,219 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:35,394 - INFO - Downloaded image 172111.jpg from tikvahpharma
+2025-07-13 13:17:35,395 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:35,619 - INFO - Downloaded image 172109.jpg from tikvahpharma
+2025-07-13 13:17:35,620 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:35,832 - INFO - Downloaded image 172107.jpg from tikvahpharma
+2025-07-13 13:17:35,833 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:36,017 - INFO - Downloaded image 172103.jpg from tikvahpharma
+2025-07-13 13:17:36,018 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:36,419 - INFO - Downloaded image 172100.jpg from tikvahpharma
+2025-07-13 13:17:36,420 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:36,831 - INFO - Downloaded image 172099.jpg from tikvahpharma
+2025-07-13 13:17:36,832 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:37,051 - INFO - Downloaded image 172098.jpg from tikvahpharma
+2025-07-13 13:17:37,052 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:37,572 - INFO - Downloaded image 172095.jpg from tikvahpharma
+2025-07-13 13:17:37,573 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:37,786 - INFO - Downloaded image 172093.jpg from tikvahpharma
+2025-07-13 13:17:37,786 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:38,181 - INFO - Downloaded image 172092.jpg from tikvahpharma
+2025-07-13 13:17:38,603 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:38,977 - INFO - Downloaded image 172085.jpg from tikvahpharma
+2025-07-13 13:17:38,977 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:39,124 - INFO - Downloaded image 172084.jpg from tikvahpharma
+2025-07-13 13:17:39,125 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:39,325 - INFO - Downloaded image 172078.jpg from tikvahpharma
+2025-07-13 13:17:39,326 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:39,745 - INFO - Downloaded image 172077.jpg from tikvahpharma
+2025-07-13 13:17:39,745 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:40,151 - INFO - Downloaded image 172071.jpg from tikvahpharma
+2025-07-13 13:17:40,152 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:40,457 - INFO - Downloaded image 172067.jpg from tikvahpharma
+2025-07-13 13:17:40,458 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:40,681 - INFO - Downloaded image 172064.jpg from tikvahpharma
+2025-07-13 13:17:40,682 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:41,100 - INFO - Downloaded image 172061.jpg from tikvahpharma
+2025-07-13 13:17:41,101 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:41,298 - INFO - Downloaded image 172059.jpg from tikvahpharma
+2025-07-13 13:17:41,299 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:41,494 - INFO - Downloaded image 172057.jpg from tikvahpharma
+2025-07-13 13:17:41,495 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:41,914 - INFO - Downloaded image 172044.jpg from tikvahpharma
+2025-07-13 13:17:41,914 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:42,105 - INFO - Downloaded image 172038.jpg from tikvahpharma
+2025-07-13 13:17:42,106 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:42,311 - INFO - Downloaded image 172032.jpg from tikvahpharma
+2025-07-13 13:17:42,312 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:42,544 - INFO - Downloaded image 172029.jpg from tikvahpharma
+2025-07-13 13:17:42,545 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:43,046 - INFO - Downloaded image 172028.jpg from tikvahpharma
+2025-07-13 13:17:43,046 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:43,279 - INFO - Downloaded image 172021.jpg from tikvahpharma
+2025-07-13 13:17:43,280 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:43,680 - INFO - Downloaded image 172020.jpg from tikvahpharma
+2025-07-13 13:17:43,681 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:44,083 - INFO - Downloaded image 172014.jpg from tikvahpharma
+2025-07-13 13:17:44,084 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:44,487 - INFO - Downloaded image 172000.jpg from tikvahpharma
+2025-07-13 13:17:44,487 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:44,688 - INFO - Downloaded image 171999.jpg from tikvahpharma
+2025-07-13 13:17:44,688 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:44,890 - INFO - Downloaded image 171991.jpg from tikvahpharma
+2025-07-13 13:17:44,890 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:45,280 - INFO - Downloaded image 171989.jpg from tikvahpharma
+2025-07-13 13:17:45,281 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:45,491 - INFO - Downloaded image 171985.jpg from tikvahpharma
+2025-07-13 13:17:45,492 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:45,698 - INFO - Downloaded image 171984.jpg from tikvahpharma
+2025-07-13 13:17:45,699 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:45,898 - INFO - Downloaded image 171983.jpg from tikvahpharma
+2025-07-13 13:17:45,898 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:46,111 - INFO - Downloaded image 171982.jpg from tikvahpharma
+2025-07-13 13:17:46,112 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:46,531 - INFO - Downloaded image 171980.jpg from tikvahpharma
+2025-07-13 13:17:46,532 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:46,675 - INFO - Downloaded image 171978.jpg from tikvahpharma
+2025-07-13 13:17:46,677 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:47,038 - INFO - Downloaded image 171960.jpg from tikvahpharma
+2025-07-13 13:17:47,039 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:47,480 - INFO - Downloaded image 171950.jpg from tikvahpharma
+2025-07-13 13:17:47,481 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:47,780 - INFO - Downloaded image 171948.jpg from tikvahpharma
+2025-07-13 13:17:47,827 - INFO - Successfully saved 200 messages from tikvahpharma to data/raw/telegram_messages/2025-07-13/tikvahpharma.json
+2025-07-13 13:17:47,829 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 13:17:48,201 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:48,379 - INFO - Downloaded image 18535.jpg from lobelia4cosmetics
+2025-07-13 13:17:48,380 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:48,591 - INFO - Downloaded image 18534.jpg from lobelia4cosmetics
+2025-07-13 13:17:48,591 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:48,791 - INFO - Downloaded image 18533.jpg from lobelia4cosmetics
+2025-07-13 13:17:48,792 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:48,994 - INFO - Downloaded image 18532.jpg from lobelia4cosmetics
+2025-07-13 13:17:48,994 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:49,185 - INFO - Downloaded image 18531.jpg from lobelia4cosmetics
+2025-07-13 13:17:49,186 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:49,351 - INFO - Downloaded image 18530.jpg from lobelia4cosmetics
+2025-07-13 13:17:49,352 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:49,503 - INFO - Downloaded image 18529.jpg from lobelia4cosmetics
+2025-07-13 13:17:49,503 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:49,699 - INFO - Downloaded image 18528.jpg from lobelia4cosmetics
+2025-07-13 13:17:49,700 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:49,926 - INFO - Downloaded image 18527.jpg from lobelia4cosmetics
+2025-07-13 13:17:49,927 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:50,135 - INFO - Downloaded image 18526.jpg from lobelia4cosmetics
+2025-07-13 13:17:50,135 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:50,438 - INFO - Downloaded image 18525.jpg from lobelia4cosmetics
+2025-07-13 13:17:50,439 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:50,779 - INFO - Downloaded image 18524.jpg from lobelia4cosmetics
+2025-07-13 13:17:50,780 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:51,043 - INFO - Downloaded image 18523.jpg from lobelia4cosmetics
+2025-07-13 13:17:51,044 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:51,254 - INFO - Downloaded image 18522.jpg from lobelia4cosmetics
+2025-07-13 13:17:51,254 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:51,557 - INFO - Downloaded image 18521.jpg from lobelia4cosmetics
+2025-07-13 13:17:51,557 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:52,000 - INFO - Downloaded image 18520.jpg from lobelia4cosmetics
+2025-07-13 13:17:52,001 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:52,557 - INFO - Downloaded image 18519.jpg from lobelia4cosmetics
+2025-07-13 13:17:52,558 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:52,805 - INFO - Downloaded image 18518.jpg from lobelia4cosmetics
+2025-07-13 13:17:52,805 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:53,005 - INFO - Downloaded image 18517.jpg from lobelia4cosmetics
+2025-07-13 13:17:53,007 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:53,222 - INFO - Downloaded image 18516.jpg from lobelia4cosmetics
+2025-07-13 13:17:53,223 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:53,467 - INFO - Downloaded image 18515.jpg from lobelia4cosmetics
+2025-07-13 13:17:53,468 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:53,625 - INFO - Downloaded image 18514.jpg from lobelia4cosmetics
+2025-07-13 13:17:53,625 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:53,823 - INFO - Downloaded image 18513.jpg from lobelia4cosmetics
+2025-07-13 13:17:53,823 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:54,024 - INFO - Downloaded image 18512.jpg from lobelia4cosmetics
+2025-07-13 13:17:54,025 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:54,225 - INFO - Downloaded image 18511.jpg from lobelia4cosmetics
+2025-07-13 13:17:54,226 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:54,473 - INFO - Downloaded image 18510.jpg from lobelia4cosmetics
+2025-07-13 13:17:54,473 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:54,756 - INFO - Downloaded image 18509.jpg from lobelia4cosmetics
+2025-07-13 13:17:54,757 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:55,072 - INFO - Downloaded image 18508.jpg from lobelia4cosmetics
+2025-07-13 13:17:55,073 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:55,457 - INFO - Downloaded image 18507.jpg from lobelia4cosmetics
+2025-07-13 13:17:55,458 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:55,784 - INFO - Downloaded image 18506.jpg from lobelia4cosmetics
+2025-07-13 13:17:55,785 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:55,989 - INFO - Downloaded image 18505.jpg from lobelia4cosmetics
+2025-07-13 13:17:55,989 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:56,197 - INFO - Downloaded image 18504.jpg from lobelia4cosmetics
+2025-07-13 13:17:56,197 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:56,449 - INFO - Downloaded image 18503.jpg from lobelia4cosmetics
+2025-07-13 13:17:56,449 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:56,728 - INFO - Downloaded image 18502.jpg from lobelia4cosmetics
+2025-07-13 13:17:56,729 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:56,923 - INFO - Downloaded image 18501.jpg from lobelia4cosmetics
+2025-07-13 13:17:56,923 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:57,110 - INFO - Downloaded image 18500.jpg from lobelia4cosmetics
+2025-07-13 13:17:57,111 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:57,392 - INFO - Downloaded image 18499.jpg from lobelia4cosmetics
+2025-07-13 13:17:57,392 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:57,639 - INFO - Downloaded image 18498.jpg from lobelia4cosmetics
+2025-07-13 13:17:57,639 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:57,819 - INFO - Downloaded image 18497.jpg from lobelia4cosmetics
+2025-07-13 13:17:57,821 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:57,982 - INFO - Downloaded image 18496.jpg from lobelia4cosmetics
+2025-07-13 13:17:57,982 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:58,168 - INFO - Downloaded image 18495.jpg from lobelia4cosmetics
+2025-07-13 13:17:58,169 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:58,356 - INFO - Downloaded image 18494.jpg from lobelia4cosmetics
+2025-07-13 13:17:58,356 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:58,547 - INFO - Downloaded image 18493.jpg from lobelia4cosmetics
+2025-07-13 13:17:58,548 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:58,750 - INFO - Downloaded image 18492.jpg from lobelia4cosmetics
+2025-07-13 13:17:58,751 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:59,195 - INFO - Downloaded image 18491.jpg from lobelia4cosmetics
+2025-07-13 13:17:59,196 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:59,595 - INFO - Downloaded image 18490.jpg from lobelia4cosmetics
+2025-07-13 13:17:59,596 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:17:59,772 - INFO - Downloaded image 18489.jpg from lobelia4cosmetics
+2025-07-13 13:17:59,773 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:00,050 - INFO - Downloaded image 18488.jpg from lobelia4cosmetics
+2025-07-13 13:18:00,050 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:00,288 - INFO - Downloaded image 18487.jpg from lobelia4cosmetics
+2025-07-13 13:18:00,289 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:00,570 - INFO - Downloaded image 18486.jpg from lobelia4cosmetics
+2025-07-13 13:18:00,571 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:00,823 - INFO - Downloaded image 18485.jpg from lobelia4cosmetics
+2025-07-13 13:18:00,823 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:01,048 - INFO - Downloaded image 18484.jpg from lobelia4cosmetics
+2025-07-13 13:18:01,049 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:01,302 - INFO - Downloaded image 18483.jpg from lobelia4cosmetics
+2025-07-13 13:18:01,303 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:01,544 - INFO - Downloaded image 18482.jpg from lobelia4cosmetics
+2025-07-13 13:18:01,545 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:02,033 - INFO - Downloaded image 18481.jpg from lobelia4cosmetics
+2025-07-13 13:18:02,034 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:02,449 - INFO - Downloaded image 18480.jpg from lobelia4cosmetics
+2025-07-13 13:18:02,450 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:02,798 - INFO - Downloaded image 18479.jpg from lobelia4cosmetics
+2025-07-13 13:18:02,799 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:03,279 - INFO - Downloaded image 18478.jpg from lobelia4cosmetics
+2025-07-13 13:18:03,279 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:03,568 - INFO - Downloaded image 18477.jpg from lobelia4cosmetics
+2025-07-13 13:18:03,569 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:04,131 - INFO - Downloaded image 18476.jpg from lobelia4cosmetics
+2025-07-13 13:18:04,132 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:04,388 - INFO - Downloaded image 18475.jpg from lobelia4cosmetics
+2025-07-13 13:18:04,388 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:04,787 - INFO - Downloaded image 18474.jpg from lobelia4cosmetics
+2025-07-13 13:18:04,788 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:05,206 - INFO - Downloaded image 18473.jpg from lobelia4cosmetics
+2025-07-13 13:18:05,207 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:05,459 - INFO - Downloaded image 18472.jpg from lobelia4cosmetics
+2025-07-13 13:18:05,459 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:05,819 - INFO - Downloaded image 18471.jpg from lobelia4cosmetics
+2025-07-13 13:18:05,819 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:06,126 - INFO - Downloaded image 18470.jpg from lobelia4cosmetics
+2025-07-13 13:18:06,127 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:06,513 - INFO - Downloaded image 18469.jpg from lobelia4cosmetics
+2025-07-13 13:18:06,514 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:06,798 - INFO - Downloaded image 18468.jpg from lobelia4cosmetics
+2025-07-13 13:18:06,798 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:07,075 - INFO - Downloaded image 18467.jpg from lobelia4cosmetics
+2025-07-13 13:18:07,075 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:07,288 - INFO - Downloaded image 18466.jpg from lobelia4cosmetics
+2025-07-13 13:18:07,289 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:07,446 - INFO - Downloaded image 18465.jpg from lobelia4cosmetics
+2025-07-13 13:18:07,447 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:07,652 - INFO - Downloaded image 18464.jpg from lobelia4cosmetics
+2025-07-13 13:18:07,653 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:07,898 - INFO - Downloaded image 18463.jpg from lobelia4cosmetics
+2025-07-13 13:18:07,899 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:08,136 - INFO - Downloaded image 18462.jpg from lobelia4cosmetics
+2025-07-13 13:18:08,137 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:08,449 - INFO - Downloaded image 18461.jpg from lobelia4cosmetics
+2025-07-13 13:18:08,450 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:08,733 - INFO - Downloaded image 18460.jpg from lobelia4cosmetics
+2025-07-13 13:18:08,734 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:08,963 - INFO - Downloaded image 18459.jpg from lobelia4cosmetics
+2025-07-13 13:18:08,963 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:09,244 - INFO - Downloaded image 18458.jpg from lobelia4cosmetics
+2025-07-13 13:18:09,245 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:09,479 - INFO - Downloaded image 18457.jpg from lobelia4cosmetics
+2025-07-13 13:18:09,479 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:09,752 - INFO - Downloaded image 18456.jpg from lobelia4cosmetics
+2025-07-13 13:18:09,753 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:10,059 - INFO - Downloaded image 18455.jpg from lobelia4cosmetics
+2025-07-13 13:18:10,060 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:10,296 - INFO - Downloaded image 18454.jpg from lobelia4cosmetics
+2025-07-13 13:18:10,296 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:10,562 - INFO - Downloaded image 18453.jpg from lobelia4cosmetics
+2025-07-13 13:18:10,562 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:10,719 - INFO - Downloaded image 18452.jpg from lobelia4cosmetics
+2025-07-13 13:18:10,720 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:10,888 - INFO - Downloaded image 18451.jpg from lobelia4cosmetics
+2025-07-13 13:18:10,889 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:11,121 - INFO - Downloaded image 18450.jpg from lobelia4cosmetics
+2025-07-13 13:18:11,122 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:11,322 - INFO - Downloaded image 18449.jpg from lobelia4cosmetics
+2025-07-13 13:18:11,323 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:11,560 - INFO - Downloaded image 18448.jpg from lobelia4cosmetics
+2025-07-13 13:18:11,560 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:11,708 - INFO - Downloaded image 18446.jpg from lobelia4cosmetics
+2025-07-13 13:18:11,709 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:11,884 - INFO - Downloaded image 18445.jpg from lobelia4cosmetics
+2025-07-13 13:18:11,884 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:12,151 - INFO - Downloaded image 18444.jpg from lobelia4cosmetics
+2025-07-13 13:18:12,151 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:12,498 - INFO - Downloaded image 18443.jpg from lobelia4cosmetics
+2025-07-13 13:18:12,498 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:12,796 - INFO - Downloaded image 18442.jpg from lobelia4cosmetics
+2025-07-13 13:18:12,797 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:13,229 - INFO - Downloaded image 18441.jpg from lobelia4cosmetics
+2025-07-13 13:18:13,230 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:13,458 - INFO - Downloaded image 18440.jpg from lobelia4cosmetics
+2025-07-13 13:18:13,458 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:13,710 - INFO - Downloaded image 18439.jpg from lobelia4cosmetics
+2025-07-13 13:18:13,711 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:13,870 - INFO - Downloaded image 18438.jpg from lobelia4cosmetics
+2025-07-13 13:18:13,871 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:14,076 - INFO - Downloaded image 18437.jpg from lobelia4cosmetics
+2025-07-13 13:18:14,077 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:14,297 - INFO - Downloaded image 18436.jpg from lobelia4cosmetics
+2025-07-13 13:18:14,300 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:14,723 - INFO - Downloaded image 18435.jpg from lobelia4cosmetics
+2025-07-13 13:18:15,048 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:15,558 - INFO - Downloaded image 18434.jpg from lobelia4cosmetics
+2025-07-13 13:18:15,558 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:15,724 - INFO - Downloaded image 18433.jpg from lobelia4cosmetics
+2025-07-13 13:18:15,725 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:15,980 - INFO - Downloaded image 18432.jpg from lobelia4cosmetics
+2025-07-13 13:18:15,981 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:16,278 - INFO - Downloaded image 18431.jpg from lobelia4cosmetics
+2025-07-13 13:18:16,279 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:16,448 - INFO - Downloaded image 18430.jpg from lobelia4cosmetics
+2025-07-13 13:18:16,448 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:16,724 - INFO - Downloaded image 18429.jpg from lobelia4cosmetics
+2025-07-13 13:18:16,725 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:16,987 - INFO - Downloaded image 18428.jpg from lobelia4cosmetics
+2025-07-13 13:18:16,987 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:17,617 - INFO - Downloaded image 18427.jpg from lobelia4cosmetics
+2025-07-13 13:18:17,618 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:18,081 - INFO - Downloaded image 18426.jpg from lobelia4cosmetics
+2025-07-13 13:18:18,082 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:18,372 - INFO - Downloaded image 18425.jpg from lobelia4cosmetics
+2025-07-13 13:18:18,372 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:18,565 - INFO - Downloaded image 18424.jpg from lobelia4cosmetics
+2025-07-13 13:18:18,566 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:18,783 - INFO - Downloaded image 18423.jpg from lobelia4cosmetics
+2025-07-13 13:18:18,784 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:18,936 - INFO - Downloaded image 18422.jpg from lobelia4cosmetics
+2025-07-13 13:18:18,937 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:19,133 - INFO - Downloaded image 18421.jpg from lobelia4cosmetics
+2025-07-13 13:18:19,134 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:19,304 - INFO - Downloaded image 18420.jpg from lobelia4cosmetics
+2025-07-13 13:18:19,304 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:19,559 - INFO - Downloaded image 18419.jpg from lobelia4cosmetics
+2025-07-13 13:18:19,560 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:19,807 - INFO - Downloaded image 18418.jpg from lobelia4cosmetics
+2025-07-13 13:18:19,808 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:19,990 - INFO - Downloaded image 18417.jpg from lobelia4cosmetics
+2025-07-13 13:18:19,991 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:20,202 - INFO - Downloaded image 18416.jpg from lobelia4cosmetics
+2025-07-13 13:18:20,203 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:20,812 - INFO - Downloaded image 18415.jpg from lobelia4cosmetics
+2025-07-13 13:18:20,813 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:21,044 - INFO - Downloaded image 18414.jpg from lobelia4cosmetics
+2025-07-13 13:18:21,044 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:21,194 - INFO - Downloaded image 18413.jpg from lobelia4cosmetics
+2025-07-13 13:18:21,195 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:21,351 - INFO - Downloaded image 18412.jpg from lobelia4cosmetics
+2025-07-13 13:18:21,351 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:21,538 - INFO - Downloaded image 18411.jpg from lobelia4cosmetics
+2025-07-13 13:18:21,538 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:21,713 - INFO - Downloaded image 18410.jpg from lobelia4cosmetics
+2025-07-13 13:18:21,714 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:22,559 - INFO - Downloaded image 18409.jpg from lobelia4cosmetics
+2025-07-13 13:18:22,560 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:22,785 - INFO - Downloaded image 18408.jpg from lobelia4cosmetics
+2025-07-13 13:18:22,785 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:23,129 - INFO - Downloaded image 18407.jpg from lobelia4cosmetics
+2025-07-13 13:18:23,130 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:23,374 - INFO - Downloaded image 18406.jpg from lobelia4cosmetics
+2025-07-13 13:18:23,375 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:23,724 - INFO - Downloaded image 18405.jpg from lobelia4cosmetics
+2025-07-13 13:18:23,725 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:24,309 - INFO - Downloaded image 18404.jpg from lobelia4cosmetics
+2025-07-13 13:18:24,310 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:24,787 - INFO - Downloaded image 18403.jpg from lobelia4cosmetics
+2025-07-13 13:18:24,787 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:24,978 - INFO - Downloaded image 18402.jpg from lobelia4cosmetics
+2025-07-13 13:18:24,979 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:25,465 - INFO - Downloaded image 18401.jpg from lobelia4cosmetics
+2025-07-13 13:18:25,465 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:25,951 - INFO - Downloaded image 18400.jpg from lobelia4cosmetics
+2025-07-13 13:18:25,952 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:26,214 - INFO - Downloaded image 18399.jpg from lobelia4cosmetics
+2025-07-13 13:18:26,214 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:26,464 - INFO - Downloaded image 18398.jpg from lobelia4cosmetics
+2025-07-13 13:18:26,465 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:26,718 - INFO - Downloaded image 18397.jpg from lobelia4cosmetics
+2025-07-13 13:18:26,718 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:27,070 - INFO - Downloaded image 18396.jpg from lobelia4cosmetics
+2025-07-13 13:18:27,070 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:27,301 - INFO - Downloaded image 18395.jpg from lobelia4cosmetics
+2025-07-13 13:18:27,302 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:27,596 - INFO - Downloaded image 18394.jpg from lobelia4cosmetics
+2025-07-13 13:18:27,596 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:27,879 - INFO - Downloaded image 18393.jpg from lobelia4cosmetics
+2025-07-13 13:18:27,879 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:28,096 - INFO - Downloaded image 18392.jpg from lobelia4cosmetics
+2025-07-13 13:18:28,097 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:28,847 - INFO - Downloaded image 18391.jpg from lobelia4cosmetics
+2025-07-13 13:18:28,848 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:29,236 - INFO - Downloaded image 18390.jpg from lobelia4cosmetics
+2025-07-13 13:18:29,236 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:29,471 - INFO - Downloaded image 18389.jpg from lobelia4cosmetics
+2025-07-13 13:18:29,472 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:29,793 - INFO - Downloaded image 18388.jpg from lobelia4cosmetics
+2025-07-13 13:18:29,798 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:29,962 - INFO - Downloaded image 18387.jpg from lobelia4cosmetics
+2025-07-13 13:18:29,963 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:30,211 - INFO - Downloaded image 18386.jpg from lobelia4cosmetics
+2025-07-13 13:18:30,212 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:30,693 - INFO - Downloaded image 18385.jpg from lobelia4cosmetics
+2025-07-13 13:18:30,694 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:31,048 - INFO - Downloaded image 18384.jpg from lobelia4cosmetics
+2025-07-13 13:18:31,049 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:31,369 - INFO - Downloaded image 18383.jpg from lobelia4cosmetics
+2025-07-13 13:18:31,370 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:31,642 - INFO - Downloaded image 18382.jpg from lobelia4cosmetics
+2025-07-13 13:18:31,643 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:31,903 - INFO - Downloaded image 18381.jpg from lobelia4cosmetics
+2025-07-13 13:18:31,903 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:32,133 - INFO - Downloaded image 18379.jpg from lobelia4cosmetics
+2025-07-13 13:18:32,134 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:32,382 - INFO - Downloaded image 18378.jpg from lobelia4cosmetics
+2025-07-13 13:18:32,383 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:32,663 - INFO - Downloaded image 18377.jpg from lobelia4cosmetics
+2025-07-13 13:18:32,664 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:32,898 - INFO - Downloaded image 18376.jpg from lobelia4cosmetics
+2025-07-13 13:18:32,898 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:33,070 - INFO - Downloaded image 18375.jpg from lobelia4cosmetics
+2025-07-13 13:18:33,071 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:33,297 - INFO - Downloaded image 18374.jpg from lobelia4cosmetics
+2025-07-13 13:18:33,298 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:33,644 - INFO - Downloaded image 18373.jpg from lobelia4cosmetics
+2025-07-13 13:18:33,644 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:34,134 - INFO - Downloaded image 18372.jpg from lobelia4cosmetics
+2025-07-13 13:18:34,135 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:34,291 - INFO - Downloaded image 18371.jpg from lobelia4cosmetics
+2025-07-13 13:18:34,292 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:34,453 - INFO - Downloaded image 18370.jpg from lobelia4cosmetics
+2025-07-13 13:18:34,454 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:34,979 - INFO - Downloaded image 18369.jpg from lobelia4cosmetics
+2025-07-13 13:18:34,979 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:35,357 - INFO - Downloaded image 18368.jpg from lobelia4cosmetics
+2025-07-13 13:18:35,357 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:35,555 - INFO - Downloaded image 18367.jpg from lobelia4cosmetics
+2025-07-13 13:18:35,556 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:35,863 - INFO - Downloaded image 18366.jpg from lobelia4cosmetics
+2025-07-13 13:18:35,864 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:36,389 - INFO - Downloaded image 18365.jpg from lobelia4cosmetics
+2025-07-13 13:18:36,390 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:36,862 - INFO - Downloaded image 18364.jpg from lobelia4cosmetics
+2025-07-13 13:18:36,862 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:37,216 - INFO - Downloaded image 18363.jpg from lobelia4cosmetics
+2025-07-13 13:18:37,217 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:37,538 - INFO - Downloaded image 18362.jpg from lobelia4cosmetics
+2025-07-13 13:18:37,539 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:37,707 - INFO - Downloaded image 18361.jpg from lobelia4cosmetics
+2025-07-13 13:18:37,708 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:37,878 - INFO - Downloaded image 18360.jpg from lobelia4cosmetics
+2025-07-13 13:18:37,879 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:38,057 - INFO - Downloaded image 18359.jpg from lobelia4cosmetics
+2025-07-13 13:18:38,058 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:38,203 - INFO - Downloaded image 18358.jpg from lobelia4cosmetics
+2025-07-13 13:18:38,203 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:38,427 - INFO - Downloaded image 18357.jpg from lobelia4cosmetics
+2025-07-13 13:18:38,427 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:38,646 - INFO - Downloaded image 18356.jpg from lobelia4cosmetics
+2025-07-13 13:18:38,647 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:38,983 - INFO - Downloaded image 18355.jpg from lobelia4cosmetics
+2025-07-13 13:18:38,984 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:39,288 - INFO - Downloaded image 18354.jpg from lobelia4cosmetics
+2025-07-13 13:18:39,288 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:39,559 - INFO - Downloaded image 18353.jpg from lobelia4cosmetics
+2025-07-13 13:18:39,560 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:39,789 - INFO - Downloaded image 18352.jpg from lobelia4cosmetics
+2025-07-13 13:18:39,790 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:40,049 - INFO - Downloaded image 18351.jpg from lobelia4cosmetics
+2025-07-13 13:18:40,049 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:40,438 - INFO - Downloaded image 18350.jpg from lobelia4cosmetics
+2025-07-13 13:18:40,439 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:42,208 - INFO - Downloaded image 18349.jpg from lobelia4cosmetics
+2025-07-13 13:18:42,209 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:42,425 - INFO - Downloaded image 18348.jpg from lobelia4cosmetics
+2025-07-13 13:18:42,426 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:42,648 - INFO - Downloaded image 18347.jpg from lobelia4cosmetics
+2025-07-13 13:18:42,649 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:42,861 - INFO - Downloaded image 18346.jpg from lobelia4cosmetics
+2025-07-13 13:18:42,861 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:43,045 - INFO - Downloaded image 18345.jpg from lobelia4cosmetics
+2025-07-13 13:18:43,046 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:43,303 - INFO - Downloaded image 18344.jpg from lobelia4cosmetics
+2025-07-13 13:18:43,303 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:43,575 - INFO - Downloaded image 18343.jpg from lobelia4cosmetics
+2025-07-13 13:18:43,576 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:43,807 - INFO - Downloaded image 18342.jpg from lobelia4cosmetics
+2025-07-13 13:18:43,808 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:43,965 - INFO - Downloaded image 18341.jpg from lobelia4cosmetics
+2025-07-13 13:18:43,966 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:44,241 - INFO - Downloaded image 18340.jpg from lobelia4cosmetics
+2025-07-13 13:18:44,242 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:44,590 - INFO - Downloaded image 18339.jpg from lobelia4cosmetics
+2025-07-13 13:18:44,591 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:44,843 - INFO - Downloaded image 18338.jpg from lobelia4cosmetics
+2025-07-13 13:18:44,843 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:45,059 - INFO - Downloaded image 18337.jpg from lobelia4cosmetics
+2025-07-13 13:18:45,060 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:45,230 - INFO - Downloaded image 18336.jpg from lobelia4cosmetics
+2025-07-13 13:18:45,230 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:45,450 - INFO - Downloaded image 18335.jpg from lobelia4cosmetics
+2025-07-13 13:18:45,450 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:45,859 - INFO - Downloaded image 18334.jpg from lobelia4cosmetics
+2025-07-13 13:18:45,891 - INFO - Successfully saved 200 messages from lobelia4cosmetics to data/raw/telegram_messages/2025-07-13/lobelia4cosmetics.json
+2025-07-13 13:18:45,892 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 13:18:46,369 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:46,559 - INFO - Downloaded image 97.jpg from CheMed123
+2025-07-13 13:18:46,560 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:47,022 - INFO - Downloaded image 96.jpg from CheMed123
+2025-07-13 13:18:47,023 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:47,216 - INFO - Downloaded image 95.jpg from CheMed123
+2025-07-13 13:18:47,216 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:47,640 - INFO - Downloaded image 94.jpg from CheMed123
+2025-07-13 13:18:47,641 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:48,118 - INFO - Downloaded image 93.jpg from CheMed123
+2025-07-13 13:18:48,119 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:48,615 - INFO - Downloaded image 92.jpg from CheMed123
+2025-07-13 13:18:48,616 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:48,863 - INFO - Downloaded image 91.jpg from CheMed123
+2025-07-13 13:18:48,864 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:49,475 - INFO - Downloaded image 90.jpg from CheMed123
+2025-07-13 13:18:49,476 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:49,948 - INFO - Downloaded image 88.jpg from CheMed123
+2025-07-13 13:18:49,949 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:50,513 - INFO - Downloaded image 87.jpg from CheMed123
+2025-07-13 13:18:50,513 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:50,921 - INFO - Downloaded image 86.jpg from CheMed123
+2025-07-13 13:18:50,922 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:51,121 - INFO - Downloaded image 85.jpg from CheMed123
+2025-07-13 13:18:51,122 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:51,444 - INFO - Downloaded image 82.jpg from CheMed123
+2025-07-13 13:18:51,444 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:51,959 - INFO - Downloaded image 81.jpg from CheMed123
+2025-07-13 13:18:51,960 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:52,146 - INFO - Downloaded image 80.jpg from CheMed123
+2025-07-13 13:18:52,147 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:52,657 - INFO - Downloaded image 79.jpg from CheMed123
+2025-07-13 13:18:52,658 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:53,143 - INFO - Downloaded image 78.jpg from CheMed123
+2025-07-13 13:18:53,144 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:53,648 - INFO - Downloaded image 77.jpg from CheMed123
+2025-07-13 13:18:53,649 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:54,054 - INFO - Downloaded image 76.jpg from CheMed123
+2025-07-13 13:18:54,054 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:54,557 - INFO - Downloaded image 75.jpg from CheMed123
+2025-07-13 13:18:54,557 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:54,753 - INFO - Downloaded image 74.jpg from CheMed123
+2025-07-13 13:18:54,754 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:55,187 - INFO - Downloaded image 71.jpg from CheMed123
+2025-07-13 13:18:55,187 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:55,603 - INFO - Downloaded image 70.jpg from CheMed123
+2025-07-13 13:18:55,604 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:56,117 - INFO - Downloaded image 67.jpg from CheMed123
+2025-07-13 13:18:56,118 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:56,629 - INFO - Downloaded image 64.jpg from CheMed123
+2025-07-13 13:18:56,630 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:56,874 - INFO - Downloaded image 60.jpg from CheMed123
+2025-07-13 13:18:56,874 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:57,139 - INFO - Downloaded image 59.jpg from CheMed123
+2025-07-13 13:18:57,140 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:57,357 - INFO - Downloaded image 58.jpg from CheMed123
+2025-07-13 13:18:57,358 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:57,611 - INFO - Downloaded image 57.jpg from CheMed123
+2025-07-13 13:18:57,612 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:58,131 - INFO - Downloaded image 56.jpg from CheMed123
+2025-07-13 13:18:58,132 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:58,547 - INFO - Downloaded image 55.jpg from CheMed123
+2025-07-13 13:18:58,548 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:58,919 - INFO - Downloaded image 53.jpg from CheMed123
+2025-07-13 13:18:58,920 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:59,130 - INFO - Downloaded image 52.jpg from CheMed123
+2025-07-13 13:18:59,131 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:59,379 - INFO - Downloaded image 50.jpg from CheMed123
+2025-07-13 13:18:59,380 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:18:59,642 - INFO - Downloaded image 49.jpg from CheMed123
+2025-07-13 13:18:59,643 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:00,193 - INFO - Downloaded image 48.jpg from CheMed123
+2025-07-13 13:19:00,194 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:00,398 - INFO - Downloaded image 46.jpg from CheMed123
+2025-07-13 13:19:00,399 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:00,651 - INFO - Downloaded image 45.jpg from CheMed123
+2025-07-13 13:19:00,651 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:00,943 - INFO - Downloaded image 44.jpg from CheMed123
+2025-07-13 13:19:00,943 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:01,285 - INFO - Downloaded image 43.jpg from CheMed123
+2025-07-13 13:19:01,285 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:01,796 - INFO - Downloaded image 41.jpg from CheMed123
+2025-07-13 13:19:01,797 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:01,976 - INFO - Downloaded image 40.jpg from CheMed123
+2025-07-13 13:19:01,977 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:02,292 - INFO - Downloaded image 39.jpg from CheMed123
+2025-07-13 13:19:02,292 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:02,580 - INFO - Downloaded image 38.jpg from CheMed123
+2025-07-13 13:19:02,582 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:03,116 - INFO - Downloaded image 34.jpg from CheMed123
+2025-07-13 13:19:03,117 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:03,628 - INFO - Downloaded image 33.jpg from CheMed123
+2025-07-13 13:19:03,629 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:03,827 - INFO - Downloaded image 32.jpg from CheMed123
+2025-07-13 13:19:03,828 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:04,089 - INFO - Downloaded image 31.jpg from CheMed123
+2025-07-13 13:19:04,089 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:04,314 - INFO - Downloaded image 30.jpg from CheMed123
+2025-07-13 13:19:04,314 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:05,272 - INFO - Downloaded image 29.jpg from CheMed123
+2025-07-13 13:19:05,273 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:05,752 - INFO - Downloaded image 27.jpg from CheMed123
+2025-07-13 13:19:05,753 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:06,550 - INFO - Downloaded image 26.jpg from CheMed123
+2025-07-13 13:19:06,550 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:06,872 - INFO - Downloaded image 25.jpg from CheMed123
+2025-07-13 13:19:06,873 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:07,146 - INFO - Downloaded image 23.jpg from CheMed123
+2025-07-13 13:19:07,147 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:07,766 - INFO - Downloaded image 22.jpg from CheMed123
+2025-07-13 13:19:07,766 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:08,221 - INFO - Downloaded image 21.jpg from CheMed123
+2025-07-13 13:19:08,222 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:08,913 - INFO - Downloaded image 20.jpg from CheMed123
+2025-07-13 13:19:08,914 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:09,460 - INFO - Downloaded image 19.jpg from CheMed123
+2025-07-13 13:19:09,460 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:09,752 - INFO - Downloaded image 18.jpg from CheMed123
+2025-07-13 13:19:09,753 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:10,075 - INFO - Downloaded image 17.jpg from CheMed123
+2025-07-13 13:19:10,075 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:10,386 - INFO - Downloaded image 15.jpg from CheMed123
+2025-07-13 13:19:10,387 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:10,948 - INFO - Downloaded image 14.jpg from CheMed123
+2025-07-13 13:19:10,949 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:11,731 - INFO - Downloaded image 13.jpg from CheMed123
+2025-07-13 13:19:11,732 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:12,231 - INFO - Downloaded image 11.jpg from CheMed123
+2025-07-13 13:19:12,232 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:12,861 - INFO - Downloaded image 10.jpg from CheMed123
+2025-07-13 13:19:12,862 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:13,134 - INFO - Downloaded image 9.jpg from CheMed123
+2025-07-13 13:19:13,135 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:13,381 - INFO - Downloaded image 4.jpg from CheMed123
+2025-07-13 13:19:13,382 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:14,290 - INFO - Downloaded image 3.jpg from CheMed123
+2025-07-13 13:19:14,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 13:19:14,490 - INFO - Downloaded image 2.jpg from CheMed123
+2025-07-13 13:19:14,504 - INFO - Successfully saved 76 messages from CheMed123 to data/raw/telegram_messages/2025-07-13/CheMed123.json
+2025-07-13 13:19:14,505 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 13:19:14,505 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:19:14,509 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 13:54:14,518 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 13:54:14,519 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 13:54:14,659 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:54:15,584 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 13:54:16,670 - ERROR - An error occurred while scraping tikvahpharma: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:54:16,670 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 13:54:18,228 - ERROR - An error occurred while scraping lobelia4cosmetics: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:54:18,228 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 13:54:18,895 - ERROR - An error occurred while scraping CheMed123: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:54:18,896 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 13:54:18,897 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:54:18,905 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 13:54:59,473 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 13:54:59,474 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 13:54:59,611 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:55:00,689 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 13:55:01,607 - ERROR - An error occurred while scraping tikvahpharma: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:55:01,607 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 13:55:02,002 - ERROR - An error occurred while scraping lobelia4cosmetics: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:55:02,002 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 13:55:02,407 - ERROR - An error occurred while scraping CheMed123: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:55:02,407 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 13:55:02,408 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:55:02,413 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 13:55:33,537 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 13:55:33,539 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 13:55:33,756 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:55:34,858 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 13:55:35,631 - ERROR - An error occurred while scraping tikvahpharma: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:55:35,631 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 13:55:36,015 - ERROR - An error occurred while scraping lobelia4cosmetics: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:55:36,015 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 13:55:36,613 - ERROR - An error occurred while scraping CheMed123: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:55:36,613 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 13:55:36,614 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:55:36,649 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 13:56:58,095 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 13:56:58,096 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 13:56:58,235 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:56:59,306 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 13:57:00,154 - ERROR - An error occurred while scraping tikvahpharma: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:57:00,154 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 13:57:00,981 - ERROR - An error occurred while scraping lobelia4cosmetics: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:57:00,982 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 13:57:01,433 - ERROR - An error occurred while scraping CheMed123: can't compare offset-naive and offset-aware datetimes
+2025-07-13 13:57:01,434 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 13:57:01,435 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:57:01,444 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 13:58:39,394 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 13:58:39,395 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 13:58:39,527 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:58:40,434 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 13:58:41,393 - ERROR - An error occurred while scraping tikvahpharma: can't subtract offset-naive and offset-aware datetimes
+2025-07-13 13:58:41,393 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 13:58:41,844 - ERROR - An error occurred while scraping lobelia4cosmetics: can't subtract offset-naive and offset-aware datetimes
+2025-07-13 13:58:41,845 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 13:58:42,584 - ERROR - An error occurred while scraping CheMed123: can't subtract offset-naive and offset-aware datetimes
+2025-07-13 13:58:42,584 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 13:58:42,585 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 13:58:42,592 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 14:05:26,804 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 14:05:26,805 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 14:05:27,870 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:05:28,920 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 14:05:29,788 - ERROR - An error occurred while scraping tikvahpharma: now() got an unexpected keyword argument 'tzinfo'
+2025-07-13 14:05:29,788 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 14:05:30,304 - ERROR - An error occurred while scraping lobelia4cosmetics: now() got an unexpected keyword argument 'tzinfo'
+2025-07-13 14:05:30,305 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 14:05:30,955 - ERROR - An error occurred while scraping CheMed123: now() got an unexpected keyword argument 'tzinfo'
+2025-07-13 14:05:30,956 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 14:05:30,956 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:05:30,964 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 14:06:23,267 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 14:06:23,268 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 14:06:23,405 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:06:24,385 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 14:06:25,439 - ERROR - An error occurred while scraping tikvahpharma: can't subtract offset-naive and offset-aware datetimes
+2025-07-13 14:06:25,439 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 14:06:26,256 - ERROR - An error occurred while scraping lobelia4cosmetics: can't subtract offset-naive and offset-aware datetimes
+2025-07-13 14:06:26,256 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 14:06:27,074 - ERROR - An error occurred while scraping CheMed123: can't subtract offset-naive and offset-aware datetimes
+2025-07-13 14:06:27,075 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 14:06:27,076 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:06:27,111 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 14:07:08,886 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 14:07:08,888 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 14:07:09,039 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:07:10,213 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 14:07:11,339 - ERROR - An error occurred while scraping tikvahpharma: can't compare offset-naive and offset-aware datetimes
+2025-07-13 14:07:11,339 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 14:07:11,834 - ERROR - An error occurred while scraping lobelia4cosmetics: can't compare offset-naive and offset-aware datetimes
+2025-07-13 14:07:11,834 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 14:07:12,885 - ERROR - An error occurred while scraping CheMed123: can't compare offset-naive and offset-aware datetimes
+2025-07-13 14:07:12,885 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 14:07:12,886 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:07:12,895 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 14:09:40,848 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 14:09:40,850 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 14:09:40,997 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:09:42,087 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 14:09:43,096 - ERROR - An error occurred while scraping tikvahpharma: descriptor 'utcoffset' for 'datetime.timezone' objects doesn't apply to a 'int' object
+2025-07-13 14:09:43,096 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 14:09:43,596 - ERROR - An error occurred while scraping lobelia4cosmetics: descriptor 'utcoffset' for 'datetime.timezone' objects doesn't apply to a 'int' object
+2025-07-13 14:09:43,596 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 14:09:44,062 - ERROR - An error occurred while scraping CheMed123: descriptor 'utcoffset' for 'datetime.timezone' objects doesn't apply to a 'int' object
+2025-07-13 14:09:44,063 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 14:09:44,063 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:09:44,071 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 14:11:16,655 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 14:11:16,657 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 14:11:16,798 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:11:17,811 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 14:11:18,710 - ERROR - An error occurred while scraping tikvahpharma: descriptor 'utcoffset' for 'datetime.timezone' objects doesn't apply to a 'datetime.timedelta' object
+2025-07-13 14:11:18,710 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 14:11:20,101 - ERROR - An error occurred while scraping lobelia4cosmetics: descriptor 'utcoffset' for 'datetime.timezone' objects doesn't apply to a 'datetime.timedelta' object
+2025-07-13 14:11:20,101 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 14:11:20,721 - ERROR - An error occurred while scraping CheMed123: descriptor 'utcoffset' for 'datetime.timezone' objects doesn't apply to a 'datetime.timedelta' object
+2025-07-13 14:11:20,722 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 14:11:20,722 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:11:20,764 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-13 14:17:50,367 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-13 14:17:50,368 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-13 14:17:50,507 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:17:51,547 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-13 14:17:52,482 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:53,296 - INFO - Downloaded image 172453.jpg from tikvahpharma
+2025-07-13 14:17:53,297 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:53,468 - INFO - Downloaded image 172452.jpg from tikvahpharma
+2025-07-13 14:17:53,468 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:54,422 - INFO - Downloaded image 172451.jpg from tikvahpharma
+2025-07-13 14:17:54,422 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:55,504 - INFO - Downloaded image 172448.jpg from tikvahpharma
+2025-07-13 14:17:55,505 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:55,827 - INFO - Downloaded image 172442.jpg from tikvahpharma
+2025-07-13 14:17:55,828 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:55,994 - INFO - Downloaded image 172431.jpg from tikvahpharma
+2025-07-13 14:17:55,995 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:56,324 - INFO - Downloaded image 172422.jpg from tikvahpharma
+2025-07-13 14:17:56,325 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:56,497 - INFO - Downloaded image 172415.jpg from tikvahpharma
+2025-07-13 14:17:56,498 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:57,310 - INFO - Downloaded image 172367.jpg from tikvahpharma
+2025-07-13 14:17:57,311 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:57,588 - INFO - Downloaded image 172360.jpg from tikvahpharma
+2025-07-13 14:17:58,045 - INFO - Successfully saved 18 messages from tikvahpharma to data/raw/telegram_messages/2025-07-13/tikvahpharma.json
+2025-07-13 14:17:58,045 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-13 14:17:58,686 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:59,163 - INFO - Downloaded image 18535.jpg from lobelia4cosmetics
+2025-07-13 14:17:59,164 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:59,629 - INFO - Downloaded image 18534.jpg from lobelia4cosmetics
+2025-07-13 14:17:59,630 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-13 14:17:59,861 - INFO - Downloaded image 18533.jpg from lobelia4cosmetics
+2025-07-13 14:18:00,169 - INFO - Successfully saved 3 messages from lobelia4cosmetics to data/raw/telegram_messages/2025-07-13/lobelia4cosmetics.json
+2025-07-13 14:18:00,169 - INFO - Starting scrape for channel: CheMed123
+2025-07-13 14:18:00,700 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-13 14:18:00,700 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-13 14:18:00,708 - INFO - --- Telegram Scraping Session Finished ---
