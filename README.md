@@ -23,6 +23,98 @@ The data pipeline is composed of the following components:
 6.  **FastAPI (`api/`):** A FastAPI application that provides an API to access the transformed data from the PostgreSQL database.
 7.  **Docker (`Dockerfile`, `docker-compose.yml`):** The entire application is containerized, allowing for easy setup and deployment.
 
+### Data Pipeline Diagram
+
+```plantuml
+@startuml
+!theme vibrant
+title Data Pipeline Flow
+
+cloud "Telegram Channels" as telegram
+
+package "Data Pipeline (Docker)" {
+  component "Scraper" as scraper
+  component "Image Enricher" as enricher
+  component "Data Loader" as loader
+  component "dbt" as dbt
+  component "Dagster" as dagster
+  component "FastAPI" as api
+}
+
+database "PostgreSQL" as postgres
+
+telegram --> scraper : "Scrapes messages"
+scraper --> enricher : "Sends images"
+enricher --> loader : "Sends enriched data"
+scraper --> loader : "Sends raw data"
+loader --> postgres : "Loads data"
+dbt -up-> postgres : "Transforms data"
+dagster -> scraper : "Triggers"
+dagster -> enricher : "Triggers"
+dagster -> loader : "Triggers"
+dagster -> dbt : "Triggers"
+api -left-> postgres : "Reads data"
+
+@enduml
+```
+
+> You can view this diagram using a PlantUML viewer like the [official online server](https://www.plantuml.com/plantuml/uml/SoWkIImgAStDuNBAJrBGjDGrAGXAJw6XAGU5B2a0L04eAAbL2Lg2oKi10000).
+
+### Star Schema Diagram
+
+```plantuml
+@startuml
+!theme vibrant
+title Star Schema
+
+entity "fct_messages" as fct_messages {
+  * **message_id** (PK)
+  --
+  * channel_id (FK)
+  * date_day (FK)
+  --
+  message_text
+  message_length
+  message_views
+  has_image
+  message_datetime
+}
+
+entity "dim_channels" as dim_channels {
+  * **channel_id** (PK)
+  --
+  channel_name
+}
+
+entity "dim_dates" as dim_dates {
+  * **date_day** (PK)
+  --
+  year
+  month
+  day
+  day_of_week
+  day_name
+  month_name
+}
+
+entity "fct_image_detections" as fct_image_detections {
+  * **detection_id** (PK)
+  --
+  * message_id (FK)
+  --
+  detected_object_class
+  confidence_score
+}
+
+fct_messages }o--|| dim_channels
+fct_messages }o--|| dim_dates
+fct_messages ||--o{ fct_image_detections
+
+@enduml
+```
+
+> You can view this diagram using a PlantUML viewer like the [official online server](https://www.plantuml.com/plantuml/uml/SoWkIImgAStDuL9LqDGrAGXAJw6XAGU5B2a0L04eAAbL2Lg2oKi10000).
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
