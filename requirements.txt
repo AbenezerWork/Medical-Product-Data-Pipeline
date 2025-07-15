@@ -1,4 +1,11 @@
 python-dotenv
 telethon
-dbt-postgres
 ultralytics
+fastapi
+uvicorn
+sqlalchemy
+dagster
+dagster-webserver
+dagster-dbt
+dbt-core
+dbt-postgres

@@ -105,9 +105,9 @@ def load_data():
                         )
                 logging.info(f"Loaded data from {filename}.")
 
+        load_enrichment_data(cursor)
         conn.commit()
         logging.info("All new data has been loaded successfully.")
-        load_enrichment_data(cursor)
 
     except (Exception, psycopg2.Error) as error:
         logging.error(

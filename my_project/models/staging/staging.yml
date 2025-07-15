@@ -7,3 +7,8 @@ sources:
     tables:
       - name: telegram_messages
         description: "Raw messages scraped from public Telegram channels, stored in JSONB format."
+
+
+      - name: image_detections
+        description: "Raw object detection results from YOLOv8."
+
