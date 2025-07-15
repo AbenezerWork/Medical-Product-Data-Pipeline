@@ -1,3 +1,4 @@
 .env
 venv/
 yolov8x.pt
+data/
