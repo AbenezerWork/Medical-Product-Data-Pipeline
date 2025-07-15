@@ -10,6 +10,15 @@ COPY requirements.txt .
 # Install any needed packages specified in requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
+RUN set -eux; \
+    apt-get update; \
+    apt-get install -y --no-install-recommends \
+        postgresql-client \
+        postgresql-server-dev-all \
+        build-essential \
+        postgresql \
+        ;
+
 # Copy the rest of the application's code into the container
 COPY . .
 

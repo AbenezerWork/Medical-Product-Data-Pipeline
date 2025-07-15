@@ -1573,3 +1573,56 @@
 2025-07-13 14:18:00,700 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
 2025-07-13 14:18:00,700 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
 2025-07-13 14:18:00,708 - INFO - --- Telegram Scraping Session Finished ---
+2025-07-15 20:40:12,038 - INFO - --- Starting Telegram Scraping Session ---
+2025-07-15 20:40:12,039 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-15 20:40:12,148 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-15 20:40:13,493 - INFO - Starting scrape for channel: tikvahpharma
+2025-07-15 20:40:14,555 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:15,022 - INFO - Downloaded image 172730.jpg from tikvahpharma
+2025-07-15 20:40:15,022 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:15,146 - INFO - Downloaded image 172714.jpg from tikvahpharma
+2025-07-15 20:40:15,146 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:15,394 - INFO - Downloaded image 172713.jpg from tikvahpharma
+2025-07-15 20:40:15,394 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:15,553 - INFO - Downloaded image 172684.jpg from tikvahpharma
+2025-07-15 20:40:15,553 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:15,748 - INFO - Downloaded image 172677.jpg from tikvahpharma
+2025-07-15 20:40:15,748 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:16,377 - INFO - Downloaded image 172676.jpg from tikvahpharma
+2025-07-15 20:40:16,377 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:16,498 - INFO - Downloaded image 172674.jpg from tikvahpharma
+2025-07-15 20:40:16,951 - INFO - Successfully saved 27 messages from tikvahpharma to data/raw/telegram_messages/2025-07-15/tikvahpharma.json
+2025-07-15 20:40:16,952 - INFO - Starting scrape for channel: lobelia4cosmetics
+2025-07-15 20:40:18,063 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:18,316 - INFO - Downloaded image 18584.jpg from lobelia4cosmetics
+2025-07-15 20:40:18,316 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:18,603 - INFO - Downloaded image 18583.jpg from lobelia4cosmetics
+2025-07-15 20:40:18,604 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:19,296 - INFO - Downloaded image 18582.jpg from lobelia4cosmetics
+2025-07-15 20:40:19,297 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:19,494 - INFO - Downloaded image 18581.jpg from lobelia4cosmetics
+2025-07-15 20:40:19,494 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:19,701 - INFO - Downloaded image 18580.jpg from lobelia4cosmetics
+2025-07-15 20:40:19,701 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:19,904 - INFO - Downloaded image 18579.jpg from lobelia4cosmetics
+2025-07-15 20:40:19,905 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:20,532 - INFO - Downloaded image 18578.jpg from lobelia4cosmetics
+2025-07-15 20:40:20,532 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:20,846 - INFO - Downloaded image 18577.jpg from lobelia4cosmetics
+2025-07-15 20:40:20,846 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:21,049 - INFO - Downloaded image 18576.jpg from lobelia4cosmetics
+2025-07-15 20:40:21,049 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:21,458 - INFO - Downloaded image 18575.jpg from lobelia4cosmetics
+2025-07-15 20:40:21,458 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:21,757 - INFO - Downloaded image 18574.jpg from lobelia4cosmetics
+2025-07-15 20:40:21,757 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:21,972 - INFO - Downloaded image 18573.jpg from lobelia4cosmetics
+2025-07-15 20:40:21,973 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:22,102 - INFO - Downloaded image 18572.jpg from lobelia4cosmetics
+2025-07-15 20:40:22,102 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-15 20:40:22,295 - INFO - Downloaded image 18571.jpg from lobelia4cosmetics
+2025-07-15 20:40:22,591 - INFO - Successfully saved 14 messages from lobelia4cosmetics to data/raw/telegram_messages/2025-07-15/lobelia4cosmetics.json
+2025-07-15 20:40:22,592 - INFO - Starting scrape for channel: CheMed123
+2025-07-15 20:40:23,222 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-15 20:40:23,222 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-15 20:40:23,230 - INFO - --- Telegram Scraping Session Finished ---

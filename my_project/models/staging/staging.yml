@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: datalake # The name of your database
+    schema: raw # The schema you created in the Python script
+    tables:
+      - name: telegram_messages
+        description: "Raw messages scraped from public Telegram channels, stored in JSONB format."

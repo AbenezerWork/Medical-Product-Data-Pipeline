@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: dim_channels
+    description: "Dimension table for Telegram channels."
+    columns:
+      - name: channel_id
+        description: "The unique identifier for a channel."
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_messages
+    description: "Fact table containing one row per message."
+    columns:
+      - name: message_id
+        description: "The primary key for this table."
+        tests:
+          - unique
+          - not_null
+      - name: channel_id
+        description: "Foreign key to the channels dimension."
+        tests:
+          - relationships:
+              to: ref('dim_channels')
+              field: channel_id
+      - name: message_views
+        description: "Number of views on a message."
+        tests:
+          # A custom test to enforce a business rule: views must not be negative
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"

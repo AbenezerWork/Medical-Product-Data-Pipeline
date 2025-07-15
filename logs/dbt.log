@@ -1,0 +1,243 @@
+[0m15:37:30.182874 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fed16937380>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fed1800da90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fed15761d10>]}
+
+
+============================== 15:37:30.190353 | 93614c08-34df-4225-94a4-4d060166ddcd ==============================
+[0m15:37:30.190353 [info ] [MainThread]: Running with dbt=1.10.4
+[0m15:37:30.191012 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'logs', 'version_check': 'True', 'profiles_dir': '/home/shivers/.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'invocation_command': 'dbt init my_dbt_project', 'send_anonymous_usage_stats': 'True'}
+[0m15:37:30.208142 [info ] [MainThread]: Creating dbt configuration folder at /home/shivers/.dbt
+[0m15:37:30.209742 [debug] [MainThread]: Starter project path: /home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/include/starter_project
+[0m15:37:30.211728 [info ] [MainThread]: 
+Your new dbt project "my_dbt_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m15:37:30.212165 [info ] [MainThread]: Setting up your profile.
+[0m17:18:42.396737 [error] [MainThread]: Encountered an error:
+
+[0m17:18:42.398916 [error] [MainThread]: Traceback (most recent call last):
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/cli/requires.py", line 161, in wrapper
+    result, success = func(*args, **kwargs)
+                      ~~~~^^^^^^^^^^^^^^^^^
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/cli/requires.py", line 111, in wrapper
+    return func(*args, **kwargs)
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/cli/main.py", line 483, in init
+    results = task.run()
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/task/init.py", line 346, in run
+    self.setup_profile(profile_name)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/task/init.py", line 262, in setup_profile
+    self.create_profile_from_target(adapter, profile_name=profile_name)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/task/init.py", line 179, in create_profile_from_target
+    self.create_profile_from_profile_template(profile_template, profile_name)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/task/init.py", line 163, in create_profile_from_profile_template
+    target = self.generate_target_from_input(prompts, initial_target)
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/task/init.py", line 129, in generate_target_from_input
+    target[key] = click.prompt(
+                  ~~~~~~~~~~~~^
+        text, default=default, hide_input=hide_input, type=type
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/click/termui.py", line 168, in prompt
+    value = prompt_func(prompt)
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/click/termui.py", line 151, in prompt_func
+    raise Abort() from None
+click.exceptions.Abort
+
+[0m17:18:42.402896 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": false, "command_wall_clock_time": 2308.7578, "process_in_blocks": "4720", "process_kernel_time": 0.125361, "process_mem_max_rss": "105812", "process_out_blocks": "80", "process_user_time": 1.474823}
+[0m17:18:42.403400 [debug] [MainThread]: Command `dbt init` failed at 17:18:42.403338 after 2308.76 seconds
+[0m17:18:42.403653 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fed156e5e00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fed156cb0b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fed156e07c0>]}
+[0m17:18:42.404834 [debug] [MainThread]: Flushing usage events
+[0m17:18:52.694425 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1fad663380>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1faed05a90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1fac48dd10>]}
+
+
+============================== 17:18:52.696901 | ef8b8b3a-ce88-4a2a-9cf6-850878b56c75 ==============================
+[0m17:18:52.696901 [info ] [MainThread]: Running with dbt=1.10.4
+[0m17:18:52.697208 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'logs', 'version_check': 'True', 'profiles_dir': '/home/shivers/.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'static_parser': 'True', 'invocation_command': 'dbt init my_dbt_project', 'log_format': 'default', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m17:18:52.704753 [info ] [MainThread]: A project called my_dbt_project already exists here.
+[0m17:18:52.705524 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 0.036125403, "process_in_blocks": "0", "process_kernel_time": 0.052604, "process_mem_max_rss": "101952", "process_out_blocks": "0", "process_user_time": 0.590514}
+[0m17:18:52.705766 [debug] [MainThread]: Command `dbt init` succeeded at 17:18:52.705716 after 0.04 seconds
+[0m17:18:52.705964 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1fac4b35c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1fac34b770>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1fac5a8c00>]}
+[0m17:18:52.706165 [debug] [MainThread]: Flushing usage events
+[0m17:18:55.487635 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m17:19:12.899586 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f0839037380>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f083a6d9a90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f0837e5dd10>]}
+
+
+============================== 17:19:12.903676 | 0e3043f5-3b63-40b6-bdb0-edf56d308408 ==============================
+[0m17:19:12.903676 [info ] [MainThread]: Running with dbt=1.10.4
+[0m17:19:12.904196 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/home/shivers/.dbt', 'version_check': 'True', 'debug': 'False', 'log_path': 'logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'invocation_command': 'dbt init my_dbt_project', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'introspect': 'True', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m17:19:12.911787 [debug] [MainThread]: Starter project path: /home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/include/starter_project
+[0m17:19:12.912690 [info ] [MainThread]: 
+Your new dbt project "my_dbt_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:19:12.912881 [info ] [MainThread]: Setting up your profile.
+[0m18:00:55.034548 [error] [MainThread]: Encountered an error:
+
+[0m18:00:55.036215 [error] [MainThread]: Traceback (most recent call last):
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/cli/requires.py", line 161, in wrapper
+    result, success = func(*args, **kwargs)
+                      ~~~~^^^^^^^^^^^^^^^^^
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/cli/requires.py", line 111, in wrapper
+    return func(*args, **kwargs)
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/cli/main.py", line 483, in init
+    results = task.run()
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/task/init.py", line 346, in run
+    self.setup_profile(profile_name)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/task/init.py", line 262, in setup_profile
+    self.create_profile_from_target(adapter, profile_name=profile_name)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/task/init.py", line 179, in create_profile_from_target
+    self.create_profile_from_profile_template(profile_template, profile_name)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/task/init.py", line 163, in create_profile_from_profile_template
+    target = self.generate_target_from_input(prompts, initial_target)
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/task/init.py", line 129, in generate_target_from_input
+    target[key] = click.prompt(
+                  ~~~~~~~~~~~~^
+        text, default=default, hide_input=hide_input, type=type
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/click/termui.py", line 168, in prompt
+    value = prompt_func(prompt)
+  File "/home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/click/termui.py", line 151, in prompt_func
+    raise Abort() from None
+click.exceptions.Abort
+
+[0m18:00:55.036875 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": false, "command_wall_clock_time": 2500.844, "process_in_blocks": "0", "process_kernel_time": 0.065468, "process_mem_max_rss": "105424", "process_out_blocks": "80", "process_user_time": 0.603216}
+[0m18:00:55.037500 [debug] [MainThread]: Command `dbt init` failed at 18:00:55.037451 after 2500.84 seconds
+[0m18:00:55.037690 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f0837de1e00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f0837dc30b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f0837ddc7c0>]}
+[0m18:00:55.037893 [debug] [MainThread]: Flushing usage events
+[0m18:00:56.008558 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m18:01:07.620930 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f35b0943380>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f35b204da90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f35af769d10>]}
+
+
+============================== 18:01:07.623949 | 0f70b652-cdd8-4fc3-8e70-690f1343b781 ==============================
+[0m18:01:07.623949 [info ] [MainThread]: Running with dbt=1.10.4
+[0m18:01:07.624294 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'profiles_dir': '/home/shivers/.dbt', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'introspect': 'True', 'invocation_command': 'dbt init my_project', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'send_anonymous_usage_stats': 'True'}
+[0m18:01:07.631713 [debug] [MainThread]: Starter project path: /home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/lib/python3.13/site-packages/dbt/include/starter_project
+[0m18:01:07.632671 [info ] [MainThread]: 
+Your new dbt project "my_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m18:01:07.632864 [info ] [MainThread]: Setting up your profile.
+[0m18:06:42.012678 [info ] [MainThread]: Profile my_project written to /home/shivers/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m18:06:42.013496 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 334.4171, "process_in_blocks": "0", "process_kernel_time": 0.050754, "process_mem_max_rss": "105372", "process_out_blocks": "72", "process_user_time": 0.616325}
+[0m18:06:42.013775 [debug] [MainThread]: Command `dbt init` succeeded at 18:06:42.013725 after 334.42 seconds
+[0m18:06:42.013977 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f35af6edba0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f35afed7bf0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f35af6e8490>]}
+[0m18:06:42.014217 [debug] [MainThread]: Flushing usage events
+[0m18:06:53.179013 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m18:06:57.567682 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff88493b380>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff886049a90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff883761d10>]}
+
+
+============================== 18:06:57.571162 | 6f5f84f4-60ae-4d78-81a5-08c142dacaff ==============================
+[0m18:06:57.571162 [info ] [MainThread]: Running with dbt=1.10.4
+[0m18:06:57.571567 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/home/shivers/.dbt', 'fail_fast': 'False', 'warn_error': 'None', 'log_path': 'logs', 'debug': 'False', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'invocation_command': 'dbt debug', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'send_anonymous_usage_stats': 'True'}
+[0m18:06:57.582528 [info ] [MainThread]: dbt version: 1.10.4
+[0m18:06:57.582909 [info ] [MainThread]: python version: 3.13.5
+[0m18:06:57.583095 [info ] [MainThread]: python path: /home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/.venv/bin/python3
+[0m18:06:57.583261 [info ] [MainThread]: os info: Linux-6.15.6-arch1-1-x86_64-with-glibc2.41
+[0m18:06:57.612147 [info ] [MainThread]: Using profiles dir at /home/shivers/.dbt
+[0m18:06:57.612524 [info ] [MainThread]: Using profiles.yml file at /home/shivers/.dbt/profiles.yml
+[0m18:06:57.612733 [info ] [MainThread]: Using dbt_project.yml file at /home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/dbt_project.yml
+[0m18:06:57.613075 [info ] [MainThread]: adapter type: postgres
+[0m18:06:57.613239 [info ] [MainThread]: adapter version: 1.9.0
+[0m18:06:57.613390 [info ] [MainThread]: Configuration:
+[0m18:06:57.613505 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m18:06:57.613615 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m18:06:57.613719 [info ] [MainThread]: Required dependencies:
+[0m18:06:57.613849 [debug] [MainThread]: Executing "git --help"
+[0m18:06:57.618041 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]\n           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]\n           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone      Clone a repository into a new directory\n   init       Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add        Add file contents to the index\n   mv         Move or rename a file, a directory, or a symlink\n   restore    Restore working tree files\n   rm         Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect     Use binary search to find the commit that introduced a bug\n   diff       Show changes between commits, commit and working tree, etc\n   grep       Print lines matching a pattern\n   log        Show commit logs\n   show       Show various types of objects\n   status     Show the working tree status\n\ngrow, mark and tweak your common history\n   backfill   Download missing objects in a partial clone\n   branch     List, create, or delete branches\n   commit     Record changes to the repository\n   merge      Join two or more development histories together\n   rebase     Reapply commits on top of another base tip\n   reset      Reset current HEAD to the specified state\n   switch     Switch branches\n   tag        Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch      Download objects and refs from another repository\n   pull       Fetch from and integrate with another repository or a local branch\n   push       Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m18:06:57.618714 [debug] [MainThread]: STDERR: "b''"
+[0m18:06:57.618922 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m18:06:57.619146 [info ] [MainThread]: Connection:
+[0m18:06:57.619334 [info ] [MainThread]:   host: localhost
+[0m18:06:57.619679 [info ] [MainThread]:   port: 5432
+[0m18:06:57.619880 [info ] [MainThread]:   user: shivers
+[0m18:06:57.620014 [info ] [MainThread]:   database: datalake
+[0m18:06:57.620126 [info ] [MainThread]:   schema: raw
+[0m18:06:57.620234 [info ] [MainThread]:   connect_timeout: 10
+[0m18:06:57.620340 [info ] [MainThread]:   role: None
+[0m18:06:57.620462 [info ] [MainThread]:   search_path: None
+[0m18:06:57.620560 [info ] [MainThread]:   keepalives_idle: 0
+[0m18:06:57.620652 [info ] [MainThread]:   sslmode: None
+[0m18:06:57.620743 [info ] [MainThread]:   sslcert: None
+[0m18:06:57.620832 [info ] [MainThread]:   sslkey: None
+[0m18:06:57.620924 [info ] [MainThread]:   sslrootcert: None
+[0m18:06:57.621015 [info ] [MainThread]:   application_name: dbt
+[0m18:06:57.621104 [info ] [MainThread]:   retries: 1
+[0m18:06:57.621337 [info ] [MainThread]: Registered adapter: postgres=1.9.0
+[0m18:06:57.645703 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m18:06:57.655175 [debug] [MainThread]: Using postgres connection "debug"
+[0m18:06:57.655451 [debug] [MainThread]: On debug: select 1 as id
+[0m18:06:57.655600 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m18:06:57.658764 [debug] [MainThread]: SQL status: SELECT 1 in 0.003 seconds
+[0m18:06:57.659945 [debug] [MainThread]: On debug: Close
+[0m18:06:57.660217 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m18:06:57.660448 [info ] [MainThread]: [31m1 check failed:[0m
+[0m18:06:57.660629 [info ] [MainThread]: Project loading failed for the following reason:
+ project path </home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/dbt_project.yml> not found
+
+[0m18:06:57.661343 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_success": false, "command_wall_clock_time": 0.120054744, "process_in_blocks": "88", "process_kernel_time": 0.059796, "process_mem_max_rss": "112820", "process_out_blocks": "16", "process_user_time": 0.652165}
+[0m18:06:57.661698 [debug] [MainThread]: Command `dbt debug` failed at 18:06:57.661631 after 0.12 seconds
+[0m18:06:57.661926 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m18:06:57.662146 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff882508510>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff8830eb1d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff8836789e0>]}
+[0m18:06:57.662589 [debug] [MainThread]: Flushing usage events
+[0m18:07:13.994872 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m19:46:51.235126 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fb723e63380>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fb72551da90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fb722c89d10>]}
+
+
+============================== 19:46:51.241039 | 77849adf-3611-47d3-988b-4d80f4ff9155 ==============================
+[0m19:46:51.241039 [info ] [MainThread]: Running with dbt=1.10.4
+[0m19:46:51.241338 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'profiles_dir': '/home/shivers/.dbt', 'log_path': 'logs', 'debug': 'False', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'invocation_command': 'dbt run', 'static_parser': 'True', 'log_format': 'default', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m19:46:51.241555 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /home/shivers/dev/github.com/AbenezerWork/Medical-Product-Data-Pipeline/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m19:46:51.242316 [debug] [MainThread]: Resource report: {"command_name": "run", "command_success": false, "command_wall_clock_time": 0.03350419, "process_in_blocks": "88048", "process_kernel_time": 0.084463, "process_mem_max_rss": "101524", "process_out_blocks": "8", "process_user_time": 0.568947}
+[0m19:46:51.242809 [debug] [MainThread]: Command `dbt run` failed at 19:46:51.242683 after 0.03 seconds
+[0m19:46:51.243246 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fb722cb62c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fb722d7b770>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fb722da4c00>]}
+[0m19:46:51.243575 [debug] [MainThread]: Flushing usage events
+[0m19:46:52.181558 [debug] [MainThread]: An error was encountered while trying to flush usage events

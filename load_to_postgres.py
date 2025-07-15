@@ -12,8 +12,8 @@ load_dotenv()
 DB_NAME = os.getenv("POSTGRES_DB")
 DB_USER = os.getenv("POSTGRES_USER")
 DB_PASSWORD = os.getenv("POSTGRES_PASSWORD")
-DB_HOST = "localhost"
-DB_PORT = "5432"
+DB_HOST = os.getenv("POSTGRES_HOST")
+DB_PORT = os.getenv("POSTGRES_PORT")
 
 # Data lake path
 TODAY = datetime.now().strftime('%Y-%m-%d')
@@ -24,6 +24,36 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
 )
+
+
+def load_enrichment_data(cursor):
+    """Loads enriched image detection data into PostgreSQL."""
+    ENRICHED_OUTPUT_DIR = os.path.join('data', 'enriched', TODAY)
+    detections_file = os.path.join(
+        ENRICHED_OUTPUT_DIR, 'image_detections.json')
+
+    if not os.path.exists(detections_file):
+        logging.warning("No image detection data file found to load.")
+        return
+
+    # Create table for enriched data
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS raw.image_detections (
+            id SERIAL PRIMARY KEY,
+            data JSONB,
+            loaded_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
+        );
+    """)
+
+    with open(detections_file, 'r', encoding='utf-8') as f:
+        detections = json.load(f)
+        for detection_data in detections:
+            cursor.execute(
+                "INSERT INTO raw.image_detections (data) VALUES (%s);",
+                (json.dumps(detection_data),)
+            )
+    logging.info(f"Loaded {len(detections)
+                           } image detections into raw.image_detections.")
 
 
 def load_data():
@@ -77,6 +107,7 @@ def load_data():
 
         conn.commit()
         logging.info("All new data has been loaded successfully.")
+        load_enrichment_data(cursor)
 
     except (Exception, psycopg2.Error) as error:
         logging.error(
