@@ -12,7 +12,7 @@ from load_to_postgres import load_data as load_raw_to_postgres
 # --- dbt Asset Definition ---
 
 # Point to your dbt project and profiles directory
-dbt_project_dir = Path(__file__).parent / "analytics"
+dbt_project_dir = Path(__file__).parent / "my_project"
 dbt_profiles_dir = Path(__file__).parent / "dbt_profiles"
 
 # Define the dbt resource

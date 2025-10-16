@@ -1,6 +1,8 @@
 with source as (
     -- Reference the raw table created by the Python script
-    select * from {{ source('raw', 'telegram_messages') }}
+    select *,
+           row_number() over (partition by (data ->> 'id')::bigint order by loaded_at desc) as rn
+    from {{ source('raw', 'telegram_messages') }}
 ),
 
 renamed as (
@@ -20,6 +22,7 @@ renamed as (
         loaded_at as loaded_at_utc
 
     from source
+    where rn = 1
 )
 
 select * from renamed

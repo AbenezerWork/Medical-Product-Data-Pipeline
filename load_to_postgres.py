@@ -52,8 +52,7 @@ def load_enrichment_data(cursor):
                 "INSERT INTO raw.image_detections (data) VALUES (%s);",
                 (json.dumps(detection_data),)
             )
-    logging.info(f"Loaded {len(detections)
-                           } image detections into raw.image_detections.")
+    logging.info(f"Loaded {len(detections)} image detections into raw.image_detections.")
 
 
 def load_data():
@@ -87,8 +86,7 @@ def load_data():
 
         # Check if the directory exists
         if not os.path.exists(RAW_MESSAGES_DIR):
-            logging.warning(f"Directory not found: {
-                            RAW_MESSAGES_DIR}. No new data to load.")
+            logging.warning(f"Directory not found: {RAW_MESSAGES_DIR}. No new data to load.")
             return
 
         # Iterate over JSON files in the data lake directory

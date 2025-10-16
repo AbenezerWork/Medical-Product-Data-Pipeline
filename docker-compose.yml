@@ -10,17 +10,33 @@ services:
       - .:/app
     env_file:
       - .env # Load environment variables from the .env file
+    environment:
+      - DAGSTER_HOME=/app/dagster_home
     depends_on:
       - db
+    command: >
+      bash -c "mkdir -p /app/dagster_home && dagster-daemon run &&
+       dbt deps --project-dir /app/my_project --profiles-dir /app/dbt_profiles && dbt compile --project-dir /app/my_project --profiles-dir /app/dbt_profiles &&
+               dagster-webserver -h 0.0.0.0 -p 3000 -f /app/pipeline.py &
+               uvicorn api.main:app --host 0.0.0.0 --port 8000"
 
   db:
     image: postgres:13
     volumes:
       - postgres_data:/var/lib/postgresql/data/
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DB: mydb
     ports:
       - "5432:5432"
     env_file:
       - .env # Load database credentials from the .env file
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
 
 volumes:
   postgres_data:

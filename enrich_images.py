@@ -15,8 +15,7 @@ ENRICHED_OUTPUT_DIR = os.path.join('data', 'enriched', TODAY)
 os.makedirs(ENRICHED_OUTPUT_DIR, exist_ok=True)
 
 # Logging Setup
-logging.basicConfig(level=logging.INFO,
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.INFO,format='%(asctime)s - %(levelname)s - %(message)s')
 
 
 def enrich_images_with_yolo():
@@ -33,8 +32,7 @@ def enrich_images_with_yolo():
 
     # Check if the image directory exists
     if not os.path.exists(RAW_IMAGES_DIR):
-        logging.warning(f"Image directory not found: {
-                        RAW_IMAGES_DIR}. No images to process.")
+        logging.warning(f"Image directory not found: {RAW_IMAGES_DIR}. No images to process.")
         return
 
     all_detections = []
@@ -74,8 +72,7 @@ def enrich_images_with_yolo():
             ENRICHED_OUTPUT_DIR, 'image_detections.json')
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(all_detections, f, ensure_ascii=False, indent=4)
-        logging.info(f"Saved {len(all_detections)
-                              } detections to {output_path}")
+        logging.info(f"Saved {len(all_detections)} detections to {output_path}")
 
     logging.info("--- Image Enrichment Finished ---")
 

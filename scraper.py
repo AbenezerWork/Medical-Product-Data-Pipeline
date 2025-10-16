@@ -79,11 +79,9 @@ async def scrape_channel(client, channel_username):
                     image_path = os.path.join(
                         RAW_IMAGES_DIR, f"{message.id}.jpg")
                     await message.download_media(file=image_path)
-                    logging.info(f"Downloaded image {
-                                 message.id}.jpg from {channel_username}")
+                    logging.info(f"Downloaded image {message.id}.jpg from {channel_username}")
                 except Exception as e:
-                    logging.error(f"Failed to download image {
-                                  message.id} from {channel_username}: {e}")
+                    logging.error(f"Failed to download image {message.id} from {channel_username}: {e}")
                     image_path = None  # Reset path if download fails
 
             # Convert message to dictionary and add image path
@@ -99,17 +97,14 @@ async def scrape_channel(client, channel_username):
                 json.dump(messages_data, f, ensure_ascii=False,
                           indent=4, default=str)
             logging.info(
-                f"Successfully saved {len(messages_data)} messages from {
-                    channel_username} to {output_path}"
+                f"Successfully saved {len(messages_data)} messages from {channel_username} to {output_path}"
             )
 
     except FloodWaitError as e:
-        logging.error(f"Flood wait error for {
-                      channel_username}. Waiting for {e.seconds} seconds.")
+        logging.error(f"Flood wait error for {channel_username}. Waiting for {e.seconds} seconds.")
         await asyncio.sleep(e.seconds)
     except Exception as e:
-        logging.error(f"An error occurred while scraping {
-                      channel_username}: {e}")
+        logging.error(f"An error occurred while scraping {channel_username}: {e}")
 
 
 async def main():

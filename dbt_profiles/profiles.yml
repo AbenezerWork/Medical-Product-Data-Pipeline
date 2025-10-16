@@ -1,12 +1,12 @@
-analytics:
+my_project:
   target: dev
   outputs:
     dev:
       type: postgres
-      host: localhost
-      user: your_username
-      password: your_super_secret_password
-      port: 5432
-      dbname: medical_data
-      schema: public
+      host: "{{ env_var('DBT_HOST') }}"
+      user: "{{ env_var('DBT_USER') }}"
+      password: "{{ env_var('DBT_PASSWORD') }}"
+      port: "{{ env_var('DBT_PORT', '5432') }}"
+      dbname: "{{ env_var('DBT_DBNAME') }}"
+      schema: "{{ env_var('DBT_SCHEMA', 'public') }}"
       threads: 4
